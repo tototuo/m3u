@@ -11,16 +11,6 @@
             }
         },
         {
-            "Filename": "./YanG_m3u/yu.m3u",
-            "Rules": {
-                "GroupPrefix":"Douyu-",
-                "GroupFilter":{
-                    "Mode":"Include",
-                    "IncludeList":["英雄联盟", "一起看", "颜值"]
-                }
-            }
-        },
-        {
             "Filename": "./YanG_m3u/ya.m3u",
             "Rules": {
                 "GroupPrefix":"Huya-",
@@ -47,7 +37,11 @@
                 "UrlFilter": {
                     "Mode":"Exclude",
                     "ExcludeList":["douyu", "huya"]
-                }
+                }, 
+                "GroupFilter":{
+                    "Mode":"Exclude",
+                    "ExcludeList":["MTV","广播","少儿"]
+                } 
             }
         }
     ]

@@ -1,6 +1,9 @@
 import csv
 import re
 import json
+import requests
+import time
+import os
 
 def extract_info(file_name):
     with open(file_name, 'r') as file:
@@ -86,8 +89,54 @@ def write_to_m3u(results, m3u_file):
             logo = row[3]
             file.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n')
 
+def generate_douyu_indexes(cate_id):
+    if os.path.exists(f"douyu_indexes_{cate_id}.json"):
+        with open(f"douyu_indexes_{cate_id}.json", 'r') as f:
+            douyu_indexes = json.load(f)
+            return douyu_indexes
+    limit = 30
+    gather_count = 300
 
-rules_list = ['green', 'all']
+    result = []
+    offset=0
+    for loop_i in range(int(gather_count/limit)):
+        response = requests.get(f'http://capi.douyucdn.cn/api/v1/live/{cate_id}?&limit={limit}&offset={offset}')
+        html = response.content.decode('utf-8')
+        #print(html)
+        json_result = json.loads(html)['data']
+        result.extend(json_result)
+        offset += limit
+        time.sleep(0.5)
+
+    sorted_result = [i for i in result if i['cate_id'] == cate_id]
+
+    with open(f"douyu_indexes_{cate_id}.json","w") as f:
+        json.dump({"data":sorted_result}, f, indent=2, ensure_ascii=False)
+        print(f"已生成 douyu_indexes_{cate_id}.json文件...") #读取json文件
+
+    return {"data":sorted_result}
+
+def mannually_gather_douyu(gather, douyu_indexes):
+    print('  ', douyu_indexes['data'][0]['game_name'])
+    
+    douyu_list = douyu_indexes['data']
+    douyu_list = sorted(douyu_list, key=lambda x: int(x['fans']), reverse=True)
+    for item in douyu_list:
+        if int(item['fans']) < 1000:
+            continue
+        group = 'Douyu-'+item['game_name']
+        name = item['nickname']
+        url = 'https://tv.iill.top/douyu/'+item['room_id']
+        logo = item['avatar_mid']
+        gather.append((group,name,url,logo))
+        #print(item['fans'])
+    return gather
+
+rules_list = ['green']
+douyu_indexes1 = generate_douyu_indexes(1)  # 1 for lol
+douyu_indexes208 = generate_douyu_indexes(208)  # 208 for movie
+douyu_indexes1008 = generate_douyu_indexes(1008)  # 1008 for mina
+
 for rule_name in rules_list:
     # load rule
     rule_filename = f'rules_{rule_name}.json'
@@ -101,8 +150,11 @@ for rule_name in rules_list:
     gather = []
     for file, pattern in rules_dict.items():
         gather += extract_info(file)
-
-    sorted_list = sorted(gather, key=lambda x: x[0])
+    print("add douyu channels")
+    gather = mannually_gather_douyu(gather, douyu_indexes1)
+    gather = mannually_gather_douyu(gather, douyu_indexes208)
+    gather = mannually_gather_douyu(gather, douyu_indexes1008)
+    sorted_list = sorted(gather, key=lambda x: x[0]) # sort by group
 
     write_to_csv(sorted_list, f'{rule_name}.csv')
     write_to_m3u(sorted_list, f'{rule_name}.m3u')
