@@ -120,7 +120,8 @@ def generate_douyu_indexes(cate_id):
         if item['room_id'] not in current_get_names:
             result.append(item)
 
-
+    result = sorted(result, key=lambda x: int(x['fans']), reverse=True)
+    
     with open(f"douyu_indexes_{cate_id}.json","w") as f:
         json.dump({"data":result}, f, indent=2, ensure_ascii=False)
         print(f"已生成 douyu_indexes_{cate_id}.json文件...") #读取json文件

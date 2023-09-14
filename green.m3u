@@ -21,8 +21,8 @@ http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id
 https://tv.iill.top/douyu/122402
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_middle.jpg?rltime" group-title="Douyu-一起看",进击的神乐
 https://tv.iill.top/douyu/85894
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_middle.jpg?rltime" group-title="Douyu-一起看",狂仔酷炫
-https://tv.iill.top/douyu/252802
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime" group-title="Douyu-一起看",UnaDirezione
+https://tv.iill.top/douyu/218859
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_middle.jpg?rltime" group-title="Douyu-一起看",狂仔酷炫
 https://tv.iill.top/douyu/252802
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b47d17758975484c826f4f0787c2a2a8_middle.jpg?rltime" group-title="Douyu-一起看",徐大sao
@@ -71,8 +71,6 @@ https://tv.iill.top/douyu/6566671
 https://tv.iill.top/douyu/997925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_middle.jpg?rltime" group-title="Douyu-一起看",活捉一只小怡寶
 https://tv.iill.top/douyu/434971
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_middle.jpg?rltime" group-title="Douyu-一起看",活捉一只小怡寶
-https://tv.iill.top/douyu/434971
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201610/15/00/d31243bd06b6bf5ae33738019ab63b12_middle.jpg?rltime" group-title="Douyu-一起看",刘少丶7012
 https://tv.iill.top/douyu/131977
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/765cf5a11a8a4afe97ebf88e68d188f7_middle.jpg?rltime" group-title="Douyu-一起看",丶小跟班丿瑶瑶
@@ -83,6 +81,8 @@ https://tv.iill.top/douyu/413573
 https://tv.iill.top/douyu/508118
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/03b1a43d2e644accb3a7d05159b2ef9a_middle.jpg?rltime" group-title="Douyu-一起看",小姐姐不记得
 https://tv.iill.top/douyu/3700024
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_middle.jpg?rltime" group-title="Douyu-一起看",小粤兒
+https://tv.iill.top/douyu/5033502
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/2c8ea1a6bbe944e3b3ed5c0834639729_middle.jpg?rltime" group-title="Douyu-一起看",爱情公寓vip
 https://tv.iill.top/douyu/6863367
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/bc45aadf0bb3e8cac758e1ecfdff5ac6_middle.jpg?rltime" group-title="Douyu-一起看",卖女孩滴小姑凉
@@ -117,8 +117,6 @@ https://tv.iill.top/douyu/4290711
 https://tv.iill.top/douyu/3870925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_middle.jpg?rltime" group-title="Douyu-一起看",鱼小丸梓
 https://tv.iill.top/douyu/6140589
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_middle.jpg?rltime" group-title="Douyu-一起看",当幽兰剑遇上链子刀
-https://tv.iill.top/douyu/6027991
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_middle.jpg?rltime" group-title="Douyu-一起看",当幽兰剑遇上链子刀
 https://tv.iill.top/douyu/6027991
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/79adbf3734574582bc35a0131b4a5eca_middle.jpg?rltime" group-title="Douyu-一起看",蒲蚂蚱
@@ -363,8 +361,6 @@ https://tv.iill.top/douyu/6694867
 https://tv.iill.top/douyu/10106809
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/badfab6af2954a3394ae5af9cfae1dd8_middle.jpg?rltime" group-title="Douyu-星秀",夏小草Zzz
 https://tv.iill.top/douyu/4254153
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/043f0eee21554e46add96068e47e3b1f_middle.jpg?rltime" group-title="Douyu-星秀",是小温馨er呦
-https://tv.iill.top/douyu/8126358
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/043f0eee21554e46add96068e47e3b1f_middle.jpg?rltime" group-title="Douyu-星秀",是小温馨er呦
 https://tv.iill.top/douyu/8126358
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/03a491f25d624e9da0185d8d6266277a_middle.jpg?rltime" group-title="Douyu-星秀",叭叭爆炸白丶
@@ -717,6 +713,8 @@ https://tv.iill.top/douyu/151417
 https://tv.iill.top/douyu/74790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/242693a1dc9042e18058f1837a8c4058_middle.jpg?rltime" group-title="Douyu-英雄联盟",嘉嘉QuQ
 https://tv.iill.top/douyu/2527784
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/3de0bd77b5ce431694b237307665d490_middle.jpg?rltime" group-title="Douyu-英雄联盟",追命或者寻欢
+https://tv.iill.top/douyu/9457782
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/27af092d33f64f3fb30e95f546e47c41_middle.jpg?rltime" group-title="Douyu-英雄联盟",小帅凯隐
 https://tv.iill.top/douyu/6561228
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/6edbd413f6a14426ac8de014eec8dbd9_middle.jpg?rltime" group-title="Douyu-英雄联盟",傻纸纸
@@ -727,14 +725,14 @@ https://tv.iill.top/douyu/8995758
 https://tv.iill.top/douyu/8897776
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/0d0fff26ade941a89704a1579c53f096_middle.jpg?rltime" group-title="Douyu-英雄联盟",温dyqaq
 https://tv.iill.top/douyu/8705686
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/1e2e4450152548afa7e65beb47e466ce_middle.jpg?rltime" group-title="Douyu-英雄联盟",空中服务员电竞钢琴家
+https://tv.iill.top/douyu/7874310
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202307/521d7048ffef4f08858772a2bbdec979_middle.jpg?rltime" group-title="Douyu-英雄联盟",渡劫丶鬼舞姬阿卡丽
 https://tv.iill.top/douyu/6571818
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201812/f3b7956d4756c4ad2b757ed8aad24cb0_middle.jpg?rltime" group-title="Douyu-英雄联盟",头头qwq
 https://tv.iill.top/douyu/6331914
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/f088b928882c46ac8823233fd3f9df04_middle.jpg?rltime" group-title="Douyu-英雄联盟",洁夕小仙女
 https://tv.iill.top/douyu/8977376
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/990473fa47504447bbcd6f4fd4f0805f_middle.jpg?rltime" group-title="Douyu-英雄联盟",Helper0u0
-https://tv.iill.top/douyu/3823104
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/990473fa47504447bbcd6f4fd4f0805f_middle.jpg?rltime" group-title="Douyu-英雄联盟",Helper0u0
 https://tv.iill.top/douyu/3823104
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/e96f60d7b48e4acc932d7cd73ddd1dd9_middle.jpg?rltime" group-title="Douyu-英雄联盟",放逐之晴
@@ -759,6 +757,8 @@ https://tv.iill.top/douyu/9461083
 https://tv.iill.top/douyu/9648406
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/40b0ed4a376340f2aea448260333ac2e_middle.jpg?rltime" group-title="Douyu-英雄联盟",可爱淘OoO
 https://tv.iill.top/douyu/3585551
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/3b27c170986f429da1bd9f231afd07b6_middle.jpg?rltime" group-title="Douyu-英雄联盟",PLCKEY
+https://tv.iill.top/douyu/10001539
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/20e570541bdc46c7848e93905ada7f98_middle.jpg?rltime" group-title="Douyu-英雄联盟",SASIOVER
 https://tv.iill.top/douyu/8676314
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/de012d6faffc4c76b3368cfa6e9e23a3_middle.jpg?rltime" group-title="Douyu-英雄联盟",阿泽lovetoshankehishead
@@ -875,6 +875,8 @@ https://tv.iill.top/douyu/10590463
 https://tv.iill.top/douyu/10811865
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/26/21/61af3e3de3e6b470f39a1febd33bb77b_middle.jpg?rltime" group-title="Douyu-英雄联盟",没有Q的迦娜
 https://tv.iill.top/douyu/636326
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/a1125b9c830244ce89a306bf1cab0d8d_middle.jpg?rltime" group-title="Douyu-英雄联盟",想找菲菲公主击剑
+https://tv.iill.top/douyu/8765160
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/d7886a54fcb249d1a4af21437aefe8f3_middle.jpg?rltime" group-title="Douyu-英雄联盟",小和中上单
 https://tv.iill.top/douyu/6232464
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/319f227571cc409293bd6267fc57878a_middle.jpg?rltime" group-title="Douyu-英雄联盟",雾里绘晚风
@@ -883,10 +885,10 @@ https://tv.iill.top/douyu/9296377
 https://tv.iill.top/douyu/2121242
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/655020c4efb74b469438942db1d11681_middle.jpg?rltime" group-title="Douyu-英雄联盟",子浑
 https://tv.iill.top/douyu/5230762
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/3028aba9bb854afcaaf8ec906faf20bd_middle.jpg?rltime" group-title="Douyu-英雄联盟",狂爱骑摩托
+https://tv.iill.top/douyu/11222987
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/976ae58e86184761aa1c05ff593c2b05_middle.jpg?rltime" group-title="Douyu-英雄联盟",飞啊飞啊12846
 https://tv.iill.top/douyu/10965267
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b4418352bb9f4c9d9b55aaa0949e7287_middle.jpg?rltime" group-title="Douyu-英雄联盟",a开心就好n
-https://tv.iill.top/douyu/10361334
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b4418352bb9f4c9d9b55aaa0949e7287_middle.jpg?rltime" group-title="Douyu-英雄联盟",a开心就好n
 https://tv.iill.top/douyu/10361334
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/e506135db48340978ecd6a3c6e235e33_middle.jpg?rltime" group-title="Douyu-英雄联盟",智勋勋勋勋的粉丝
@@ -899,6 +901,8 @@ https://tv.iill.top/douyu/10647743
 https://tv.iill.top/douyu/9213904
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/19_middle.jpg?rltime" group-title="Douyu-英雄联盟",峡谷王者一路人王
 https://tv.iill.top/douyu/11499516
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/894d7bbe461e40b2894a66ab21a4184a_middle.jpg?rltime" group-title="Douyu-英雄联盟",星野樱一
+https://tv.iill.top/douyu/5265317
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/e678b7032b794a2dbb1a7780640923ef_middle.jpg?rltime" group-title="Douyu-英雄联盟",猫九斤儿
 https://tv.iill.top/douyu/11011722
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/3371dbe8b2d3444aaf627fa2652df205_middle.jpg?rltime" group-title="Douyu-英雄联盟",q1183540843
