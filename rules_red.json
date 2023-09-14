@@ -1,0 +1,15 @@
+{
+    "All":
+    [
+        {
+            "Filename": "./YanG_m3u/Adult.m3u",
+            "Rules": {
+                "GroupPrefix":"Adult-",
+                "GroupFilter":{
+                    "Mode":"Exclude",
+                    "ExcludeList":[]
+                }
+            }
+        }
+    ]
+}

@@ -40,7 +40,7 @@
                 }, 
                 "GroupFilter":{
                     "Mode":"Exclude",
-                    "ExcludeList":["MTV","广播","少儿"]
+                    "ExcludeList":["MTV","广播","少儿","韩国"]
                 } 
             }
         }

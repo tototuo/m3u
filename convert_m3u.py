@@ -89,7 +89,7 @@ def write_to_m3u(results, m3u_file):
             logo = row[3]
             file.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n')
 
-update_exsiting = True
+update_exsiting = False
 gather_count = 300
 limit = 30
 
@@ -114,7 +114,7 @@ def generate_douyu_indexes(cate_id):
     result = [i for i in result if i['cate_id'] == cate_id]
 
     current_get_names = [x['room_id'] for x in result]
-    print(current_get_names)
+    #print(current_get_names)
 
     for item in exsit_indexes['data']:
         if item['room_id'] not in current_get_names:
@@ -144,7 +144,7 @@ def mannually_gather_douyu(gather, douyu_indexes):
         #print(item['fans'])
     return gather
 
-rules_list = ['green']
+rules_list = ['green','red']
 douyu_indexes1 = generate_douyu_indexes(1)  # 1 for lol
 douyu_indexes208 = generate_douyu_indexes(208)  # 208 for movie
 douyu_indexes1008 = generate_douyu_indexes(1008)  # 1008 for mina
@@ -162,10 +162,11 @@ for rule_name in rules_list:
     gather = []
     for file, pattern in rules_dict.items():
         gather += extract_info(file)
-    print("add douyu channels")
-    gather = mannually_gather_douyu(gather, douyu_indexes1)
-    gather = mannually_gather_douyu(gather, douyu_indexes208)
-    gather = mannually_gather_douyu(gather, douyu_indexes1008)
+    if rule_name == 'green':
+        print("add douyu channels")
+        gather = mannually_gather_douyu(gather, douyu_indexes1)
+        gather = mannually_gather_douyu(gather, douyu_indexes208)
+        gather = mannually_gather_douyu(gather, douyu_indexes1008)
     sorted_list = sorted(gather, key=lambda x: x[0]) # sort by group
 
     write_to_csv(sorted_list, f'{rule_name}.csv')
