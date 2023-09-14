@@ -89,16 +89,19 @@ def write_to_m3u(results, m3u_file):
             logo = row[3]
             file.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n')
 
+update_exsiting = True
+gather_count = 300
+limit = 30
+
 def generate_douyu_indexes(cate_id):
     if os.path.exists(f"douyu_indexes_{cate_id}.json"):
         with open(f"douyu_indexes_{cate_id}.json", 'r') as f:
-            douyu_indexes = json.load(f)
-            return douyu_indexes
-    limit = 30
-    gather_count = 300
-
+            exsit_indexes = json.load(f)
+            if not update_exsiting:
+                return exsit_indexes
+    
     result = []
-    offset=0
+    offset = 0
     for loop_i in range(int(gather_count/limit)):
         response = requests.get(f'http://capi.douyucdn.cn/api/v1/live/{cate_id}?&limit={limit}&offset={offset}')
         html = response.content.decode('utf-8')
@@ -108,13 +111,21 @@ def generate_douyu_indexes(cate_id):
         offset += limit
         time.sleep(0.5)
 
-    sorted_result = [i for i in result if i['cate_id'] == cate_id]
+    result = [i for i in result if i['cate_id'] == cate_id]
+
+    current_get_names = [x['room_id'] for x in result]
+    print(current_get_names)
+
+    for item in exsit_indexes['data']:
+        if item['room_id'] not in current_get_names:
+            result.append(item)
+
 
     with open(f"douyu_indexes_{cate_id}.json","w") as f:
-        json.dump({"data":sorted_result}, f, indent=2, ensure_ascii=False)
+        json.dump({"data":result}, f, indent=2, ensure_ascii=False)
         print(f"已生成 douyu_indexes_{cate_id}.json文件...") #读取json文件
 
-    return {"data":sorted_result}
+    return {"data":result}
 
 def mannually_gather_douyu(gather, douyu_indexes):
     print('  ', douyu_indexes['data'][0]['game_name'])
