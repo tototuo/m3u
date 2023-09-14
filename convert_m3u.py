@@ -89,7 +89,7 @@ def write_to_m3u(results, m3u_file):
             logo = row[3]
             file.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n')
 
-update_exsiting = False
+update_exsiting = True
 gather_count = 300
 limit = 30
 
@@ -128,7 +128,7 @@ def generate_douyu_indexes(cate_id):
 
     return {"data":result}
 
-def mannually_gather_douyu(gather, douyu_indexes):
+def manually_gather_douyu(gather, douyu_indexes):
     print('  ', douyu_indexes['data'][0]['game_name'])
     
     douyu_list = douyu_indexes['data']
@@ -164,9 +164,9 @@ for rule_name in rules_list:
         gather += extract_info(file)
     if rule_name == 'green':
         print("add douyu channels")
-        gather = mannually_gather_douyu(gather, douyu_indexes1)
-        gather = mannually_gather_douyu(gather, douyu_indexes208)
-        gather = mannually_gather_douyu(gather, douyu_indexes1008)
+        gather = manually_gather_douyu(gather, douyu_indexes1)
+        gather = manually_gather_douyu(gather, douyu_indexes208)
+        gather = manually_gather_douyu(gather, douyu_indexes1008)
     sorted_list = sorted(gather, key=lambda x: x[0]) # sort by group
 
     write_to_csv(sorted_list, f'{rule_name}.csv')
