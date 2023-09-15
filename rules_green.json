@@ -1,33 +1,32 @@
 {
-    "All":
-    [
+    "All": [
         {
             "Filename": "./YanG_m3u/XX.m3u",
             "Rules": {
-                "GroupFilter":{
-                    "Mode":"Include",
-                    "IncludeList":[]
+                "GroupFilter": {
+                    "Mode": "Include",
+                    "IncludeList": []
                 }
             }
         },
         {
             "Filename": "./YanG_m3u/ya.m3u",
             "Rules": {
-                "GroupPrefix":"Huya-",
-                "GroupFilter":{
-                    "Mode":"Include",
-                    "IncludeList":[]
-                } 
+                "GroupPrefix": "Huya-",
+                "GroupFilter": {
+                    "Mode": "Include",
+                    "IncludeList": []
+                }
             }
         },
         {
             "Filename": "./YanG_m3u/Adult.m3u",
             "Rules": {
-                "GroupPrefix":"Adult-",
-                "GroupFilter":{
-                    "Mode":"Include",
-                    "IncludeList":[]
-                } 
+                "GroupPrefix": "Adult-",
+                "GroupFilter": {
+                    "Mode": "Include",
+                    "IncludeList": []
+                }
             }
         },
         {
@@ -35,13 +34,21 @@
             "Rules": {
                 "SkipIPV6": true,
                 "UrlFilter": {
-                    "Mode":"Exclude",
-                    "ExcludeList":["douyu", "huya"]
-                }, 
-                "GroupFilter":{
-                    "Mode":"Exclude",
-                    "ExcludeList":["MTV","广播","少儿","韩国"]
-                } 
+                    "Mode": "Exclude",
+                    "ExcludeList": [
+                        "douyu",
+                        "huya"
+                    ]
+                },
+                "GroupFilter": {
+                    "Mode": "Exclude",
+                    "ExcludeList": [
+                        "MTV",
+                        "广播",
+                        "少儿",
+                        "韩国"
+                    ]
+                }
             }
         }
     ]
