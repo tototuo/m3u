@@ -50,7 +50,6 @@ def apply_rules(rules, group, name, url, logo):
                 skip = True
         elif rules['GroupFilter']['Mode'] == 'Exclude':
             exclude_list = rules['GroupFilter']['ExcludeList']
-            print(group, exclude_list)
             if group in exclude_list:
                 skip = True
 
@@ -149,7 +148,7 @@ def manually_gather_douyu(gather, douyu_indexes):
     douyu_list = douyu_indexes['data']
     douyu_list = sorted(douyu_list, key=lambda x: int(x['fans']), reverse=True)
     for item in douyu_list:
-        if int(item['fans']) < 1000:
+        if int(item['fans']) < 3000:
             continue
         group = 'Douyu-'+item['game_name']
         name = item['nickname']
@@ -161,9 +160,7 @@ def manually_gather_douyu(gather, douyu_indexes):
 
 
 rules_list = ['green']
-douyu_indexes1 = generate_douyu_indexes(1)  # 1 for lol
-douyu_indexes208 = generate_douyu_indexes(208)  # 208 for movie
-douyu_indexes1008 = generate_douyu_indexes(1008)  # 1008 for mina
+
 
 for rule_name in rules_list:
     # load rule
@@ -176,13 +173,17 @@ for rule_name in rules_list:
         rules_dict[item['Filename']] = item['Rules']
 
     gather = []
-    for file, pattern in rules_dict.items():
-        gather += extract_info(file)
+
     if rule_name == 'green':
         print("add douyu channels")
-        gather = manually_gather_douyu(gather, douyu_indexes1)
-        gather = manually_gather_douyu(gather, douyu_indexes208)
-        gather = manually_gather_douyu(gather, douyu_indexes1008)
+        # 1 for lol,208 for movie, 1008 for dance
+        search_indexes = [1, 208, 1008]
+        for search_index in search_indexes:
+            douyu_indexes = generate_douyu_indexes(search_index)
+            gather = manually_gather_douyu(gather, douyu_indexes)
+
+    for file, pattern in rules_dict.items():
+        gather += extract_info(file)
     sorted_list = sorted(gather, key=lambda x: x[0])  # sort by group
 
     write_to_csv(sorted_list, f'{rule_name}.csv')
