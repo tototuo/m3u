@@ -30,9 +30,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        
+        git submodule init
+        git submodule update
     - name: Run python
-      run: python3 convert_m3u.py
+      run: python convert_m3u.py
     - name: Commit result
       run: |
         git config --global user.name "tototuo" # 改成Github账号用户名
