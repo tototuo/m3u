@@ -161,7 +161,7 @@ def manually_gather_douyu(gather, douyu_indexes):
     douyu_list = douyu_indexes['data']
     douyu_list = sorted(douyu_list, key=lambda x: x['fans'], reverse=True)
     for item in douyu_list:
-        if item['fans'] < 3000:
+        if item['fans'] < 10000:
             continue
         group = 'Douyu-'+item['game_name']
         name = item['nickname']
