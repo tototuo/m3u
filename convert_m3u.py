@@ -125,7 +125,9 @@ def generate_douyu_indexes(cate_id):
         time.sleep(0.5)
 
     result = [i for i in result if i['cate_id'] == cate_id]
-    result = [{k: v for k, v in d.items() if k != 'online' and k != 'hn'} for d in result]
+    result = [{'room_id': i['room_id'], 'cate_id':i['cate_id'], 'nickname':i['nickname'],'game_name':i['game_name'],'avatar_mid':i['avatar_mid'],'fans':int(i['fans'])} for i in result]
+    exsit_indexes['data'] = [{'room_id': i['room_id'], 'cate_id':i['cate_id'], 'nickname':i['nickname'],'game_name':i['game_name'],'avatar_mid':i['avatar_mid'],'fans':int(i['fans'])} for i in exsit_indexes['data']]
+    #print(result)
 
     current_get_names = [ x['room_id'] for x in result]
     exsiting_names = [ x['room_id'] for x in exsit_indexes['data']]
@@ -137,14 +139,14 @@ def generate_douyu_indexes(cate_id):
 
     for item in result:
         if item['room_id'] in exsiting_names:
-            new_fans_num = int(item['fans'])
+            new_fans_num = item['fans']
             exsit_item = [x for x in exsit_indexes['data'] if x['room_id'] == item['room_id']][0] # should be only one
-            old_fans_num = int(exsit_item['fans'])
+            old_fans_num = exsit_item['fans']
             if new_fans_num/old_fans_num <= 1.05 and new_fans_num/old_fans_num >= 0.95:
                 item['fans'] = exsit_item['fans']
 
 
-    result = sorted(result, key=lambda x: int(x['fans']), reverse=True)
+    result = sorted(result, key=lambda x: x['fans'], reverse=True)
     #print(result)
     with open(f"douyu_indexes_{cate_id}.json", "w", encoding='utf-8') as f:
         json.dump({"data": result}, f, indent=2, ensure_ascii=False)
@@ -157,9 +159,9 @@ def manually_gather_douyu(gather, douyu_indexes):
     print('  ', douyu_indexes['data'][0]['game_name'])
 
     douyu_list = douyu_indexes['data']
-    douyu_list = sorted(douyu_list, key=lambda x: int(x['fans']), reverse=True)
+    douyu_list = sorted(douyu_list, key=lambda x: x['fans'], reverse=True)
     for item in douyu_list:
-        if int(item['fans']) < 3000:
+        if item['fans'] < 3000:
             continue
         group = 'Douyu-'+item['game_name']
         name = item['nickname']
