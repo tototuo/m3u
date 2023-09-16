@@ -945,6 +945,14 @@
       "fans": 18006
     },
     {
+      "room_id": "6906628",
+      "cate_id": 208,
+      "nickname": "小毅主播q",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/81094248ce6347139b79c6d3af42418f_middle.jpg?rltime",
+      "fans": 17156
+    },
+    {
       "room_id": "7642724",
       "cate_id": 208,
       "nickname": "米尼影院",
@@ -1761,20 +1769,20 @@
       "fans": 1298
     },
     {
+      "room_id": "11756388",
+      "cate_id": 208,
+      "nickname": "白马飞飞520",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/4d627fd7fca24aca970463f8651267b9_middle.jpg?rltime",
+      "fans": 1164
+    },
+    {
       "room_id": "5629320",
       "cate_id": 208,
       "nickname": "AN棋待诏",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/face/201609/06/8b0eac7644d581462a796ff13ed6d12f_middle.jpg?rltime",
       "fans": 1111
-    },
-    {
-      "room_id": "11756388",
-      "cate_id": 208,
-      "nickname": "白马飞飞520",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/4d627fd7fca24aca970463f8651267b9_middle.jpg?rltime",
-      "fans": 1108
     },
     {
       "room_id": "11426788",
