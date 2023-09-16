@@ -125,6 +125,7 @@ def generate_douyu_indexes(cate_id):
         time.sleep(0.5)
 
     result = [i for i in result if i['cate_id'] == cate_id]
+    result = [{k: v for k, v in d.items() if k != 'online' and k != 'hn'} for d in result]
 
     current_get_names = [x['room_id'] for x in result]
     # print(current_get_names)
