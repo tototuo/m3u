@@ -25,6 +25,14 @@
       "fans": 2770448
     },
     {
+      "room_id": "218859",
+      "cate_id": 208,
+      "nickname": "UnaDirezione",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
+      "fans": 2770448
+    },
+    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -143,6 +151,22 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/e66b1d5dde45488f85ef4183b71a1ad5_middle.jpg?rltime",
       "fans": 548301
+    },
+    {
+      "room_id": "260322",
+      "cate_id": 208,
+      "nickname": "懒猫是只喵",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/010/51/61/02_avatar_middle.jpg?rltime",
+      "fans": 489358
+    },
+    {
+      "room_id": "2073",
+      "cate_id": 208,
+      "nickname": "傲天皇妃sama",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202002/2260f7f6d8484225aed6d9272558682c_middle.jpg?rltime",
+      "fans": 479562
     },
     {
       "room_id": "4105989",
@@ -433,6 +457,14 @@
       "fans": 89381
     },
     {
+      "room_id": "6027991",
+      "cate_id": 208,
+      "nickname": "当幽兰剑遇上链子刀",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_middle.jpg?rltime",
+      "fans": 89381
+    },
+    {
       "room_id": "6079455",
       "cate_id": 208,
       "nickname": "蒲蚂蚱",
@@ -703,6 +735,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201701/15/20/b41ea8596aec11e1dd2271268eacce3a_middle.jpg?rltime",
       "fans": 35166
+    },
+    {
+      "room_id": "9071554",
+      "cate_id": 208,
+      "nickname": "大麦青汁Fl",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202204/22e586b027924453b9ff4b3b1a216575_middle.jpg?rltime",
+      "fans": 33294
     },
     {
       "room_id": "9071554",
