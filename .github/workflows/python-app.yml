@@ -1,0 +1,42 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Python application
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  push:
+    branches: [ "main" ]
+
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        ref: main
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        
+    - name: Run python
+      run: python3 convert_m3u.py
+    - name: Commit result
+      run: |
+        git config --global user.name "tototuo" # 改成Github账号用户名
+        git config --global user.email "65993366@qq.com" # 改成GitHub账号的邮箱
+        git add * && echo "Git Added"
+        git commit -m 'upload new result' && echo "Git Committed"
+        git push -u origin master && echo "Git Pushed Origin"
