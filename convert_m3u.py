@@ -97,7 +97,7 @@ def write_to_m3u(results, m3u_file):
                 f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n')
 
 
-update_exsiting = False
+update_exsiting = True
 gather_count = 300
 limit = 30
 
