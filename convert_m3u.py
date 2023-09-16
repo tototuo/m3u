@@ -159,7 +159,7 @@ def manually_gather_douyu(gather, douyu_indexes):
     return gather
 
 
-rules_list = ['green']
+rules_list = ['green','red']
 
 
 for rule_name in rules_list:
