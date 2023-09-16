@@ -40,4 +40,4 @@ jobs:
         git config --global user.email "65993366@qq.com" # 改成GitHub账号的邮箱
         git add * && echo "Git Added"
         git commit -m 'upload new result' && echo "Git Committed"
-        git push -u origin master && echo "Git Pushed Origin"
+        git push && echo "Git Pushed Origin"
