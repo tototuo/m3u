@@ -127,12 +127,22 @@ def generate_douyu_indexes(cate_id):
     result = [i for i in result if i['cate_id'] == cate_id]
     result = [{k: v for k, v in d.items() if k != 'online' and k != 'hn'} for d in result]
 
-    current_get_names = [x['room_id'] for x in result]
+    current_get_names = [ x['room_id'] for x in result]
+    exsiting_names = [ x['room_id'] for x in exsit_indexes['data']]
     # print(current_get_names)
 
     for item in exsit_indexes['data']:
         if item['room_id'] not in current_get_names:
             result.append(item)
+
+    for item in result:
+        if item['room_id'] in exsiting_names:
+            new_fans_num = int(item['fans'])
+            exsit_item = [x for x in exsit_indexes['data'] if x['room_id'] == item['room_id']][0] # should be only one
+            old_fans_num = int(exsit_item['fans'])
+            if new_fans_num/old_fans_num <= 1.05 and new_fans_num/old_fans_num >= 0.95:
+                item['fans'] = exsit_item['fans']
+
 
     result = sorted(result, key=lambda x: int(x['fans']), reverse=True)
     #print(result)
