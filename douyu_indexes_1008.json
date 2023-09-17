@@ -257,6 +257,14 @@
       "fans": 378239
     },
     {
+      "room_id": "2008433",
+      "cate_id": 1008,
+      "nickname": "宋鲸儿小号",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201901/01096186f6ed4fe5b488541fa0c4effa_middle.jpg?rltime",
+      "fans": 368001
+    },
+    {
       "room_id": "974894",
       "cate_id": 1008,
       "nickname": "林小鸟a",
@@ -1657,6 +1665,14 @@
       "fans": 27098
     },
     {
+      "room_id": "10039515",
+      "cate_id": 1008,
+      "nickname": "郁安楠",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/a7c078495d2844609d867aa785da4c48_middle.jpg?rltime",
+      "fans": 27025
+    },
+    {
       "room_id": "4825909",
       "cate_id": 1008,
       "nickname": "超A的小雀崽",
@@ -2631,6 +2647,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/2b73b4245b294bfeb661324c68ca0fd4_middle.jpg?rltime",
       "fans": 12260
+    },
+    {
+      "room_id": "10329609",
+      "cate_id": 1008,
+      "nickname": "许笙笙i",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/66fd1d2499a1483c92e08a774c909100_middle.jpg?rltime",
+      "fans": 12239
     },
     {
       "room_id": "5863027",

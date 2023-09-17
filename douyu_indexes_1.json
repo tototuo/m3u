@@ -2161,6 +2161,14 @@
       "fans": 15463
     },
     {
+      "room_id": "9441019",
+      "cate_id": 1,
+      "nickname": "xiaoyanci",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/1d280a85f2c74865be9071f5cb959a6a_middle.jpg?rltime",
+      "fans": 15002
+    },
+    {
       "room_id": "10256280",
       "cate_id": 1,
       "nickname": "野区讲师Xue",
@@ -2231,6 +2239,22 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/b1f8aa77d4c64cda98229ca9b2b363f3_middle.jpg?rltime",
       "fans": 13899
+    },
+    {
+      "room_id": "642230",
+      "cate_id": 1,
+      "nickname": "徐大喜儿",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/1cda92b046e744ed990c643a67b6dbbd_middle.jpg?rltime",
+      "fans": 13579
+    },
+    {
+      "room_id": "9062878",
+      "cate_id": 1,
+      "nickname": "遗墨ad",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/ab85d97b0e214afc9697fe77c0a9f1b8_middle.jpg?rltime",
+      "fans": 13578
     },
     {
       "room_id": "8897776",
@@ -2537,6 +2561,14 @@
       "fans": 10870
     },
     {
+      "room_id": "5961114",
+      "cate_id": 1,
+      "nickname": "一情书一",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/09d5084ddc9f499a96b1fdce35fbb915_middle.jpg?rltime",
+      "fans": 10807
+    },
+    {
       "room_id": "11484479",
       "cate_id": 1,
       "nickname": "顾小悠呀",
@@ -2559,6 +2591,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202206/a6cca70f1c4b4e39a38f114ad0e5f4b0_middle.jpg?rltime",
       "fans": 10459
+    },
+    {
+      "room_id": "5873937",
+      "cate_id": 1,
+      "nickname": "梦梦的无情风",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201810/9803335a4f11c048ec6d6d08c0cf8117_middle.jpg?rltime",
+      "fans": 10458
     },
     {
       "room_id": "10841853",
