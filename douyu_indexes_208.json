@@ -729,6 +729,14 @@
       "fans": 35166
     },
     {
+      "room_id": "223306",
+      "cate_id": 208,
+      "nickname": "silenceyou",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/face/201607/13/1243f2c1fd584df9806f098b03041b16_middle.jpg?rltime",
+      "fans": 33861
+    },
+    {
       "room_id": "9071554",
       "cate_id": 208,
       "nickname": "大麦青汁Fl",
@@ -1585,6 +1593,14 @@
       "fans": 3770
     },
     {
+      "room_id": "6528409",
+      "cate_id": 208,
+      "nickname": "林朗Am",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/e3bb25030ecb4a92b5bb94721e061455_middle.jpg?rltime",
+      "fans": 3765
+    },
+    {
       "room_id": "11427862",
       "cate_id": 208,
       "nickname": "年少轻狂太懵懂",
@@ -2249,6 +2265,14 @@
       "fans": 680
     },
     {
+      "room_id": "11784023",
+      "cate_id": 208,
+      "nickname": "你好呀张一一",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/15_middle.jpg?rltime",
+      "fans": 650
+    },
+    {
       "room_id": "11780402",
       "cate_id": 208,
       "nickname": "点点滴滴那个谁啊1",
@@ -2263,14 +2287,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/14_middle.jpg?rltime",
       "fans": 598
-    },
-    {
-      "room_id": "11784023",
-      "cate_id": 208,
-      "nickname": "你好呀张一一",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/15_middle.jpg?rltime",
-      "fans": 588
     },
     {
       "room_id": "527502",
@@ -2369,6 +2385,14 @@
       "fans": 348
     },
     {
+      "room_id": "8500638",
+      "cate_id": 208,
+      "nickname": "龙尼美",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202003/666a49b8a12f4c05ac40ec0b1ec87abd_middle.jpg?rltime",
+      "fans": 293
+    },
+    {
       "room_id": "11762115",
       "cate_id": 208,
       "nickname": "打完噶额",
@@ -2399,6 +2423,38 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/04_middle.jpg?rltime",
       "fans": 196
+    },
+    {
+      "room_id": "11820878",
+      "cate_id": 208,
+      "nickname": "爆炒煮干丝",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/23_middle.jpg?rltime",
+      "fans": 68
+    },
+    {
+      "room_id": "11820868",
+      "cate_id": 208,
+      "nickname": "圣诞节卡了z",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/19_middle.jpg?rltime",
+      "fans": 66
+    },
+    {
+      "room_id": "11821176",
+      "cate_id": 208,
+      "nickname": "太多了也不好z",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/14_middle.jpg?rltime",
+      "fans": 65
+    },
+    {
+      "room_id": "11820882",
+      "cate_id": 208,
+      "nickname": "伤心的大赛头Z",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/19_middle.jpg?rltime",
+      "fans": 64
     },
     {
       "room_id": "11819638",
