@@ -2161,6 +2161,14 @@
       "fans": 821
     },
     {
+      "room_id": "11427916",
+      "cate_id": 208,
+      "nickname": "孙良杰",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/0ed5512d55c845b88e8478de89973a32_middle.jpg?rltime",
+      "fans": 818
+    },
+    {
       "room_id": "11426709",
       "cate_id": 208,
       "nickname": "继续S",
@@ -2215,14 +2223,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202001/c58a3cfaea1a4e939106ef3368f818be_middle.jpg?rltime",
       "fans": 771
-    },
-    {
-      "room_id": "11427916",
-      "cate_id": 208,
-      "nickname": "孙良杰",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/0ed5512d55c845b88e8478de89973a32_middle.jpg?rltime",
-      "fans": 766
     },
     {
       "room_id": "7156316",
@@ -2329,6 +2329,14 @@
       "fans": 423
     },
     {
+      "room_id": "4757002",
+      "cate_id": 208,
+      "nickname": "Willow要努力",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/11_middle.jpg?rltime",
+      "fans": 381
+    },
+    {
       "room_id": "11545567",
       "cate_id": 208,
       "nickname": "laoyaolinpi",
@@ -2353,20 +2361,12 @@
       "fans": 363
     },
     {
-      "room_id": "4757002",
-      "cate_id": 208,
-      "nickname": "Willow要努力",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/11_middle.jpg?rltime",
-      "fans": 330
-    },
-    {
       "room_id": "11545501",
       "cate_id": 208,
       "nickname": "我叫番队长",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/016/37/62/70_avatar_middle.jpg?rltime",
-      "fans": 296
+      "fans": 348
     },
     {
       "room_id": "11762115",
