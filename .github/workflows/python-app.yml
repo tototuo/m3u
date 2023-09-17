@@ -38,8 +38,8 @@ jobs:
       run: |
         git config --global user.name "tototuo" # 改成Github账号用户名
         git config --global user.email "65993366@qq.com" # 改成GitHub账号的邮箱
-        git add * && echo "Git Added"
+        git add *.m3u && git add *.json && echo "Git Added"
         current_time=$(date +"%Y-%m-%d %H:%M:%S")
-        commit_message="Update files - $current_time"
+        commit_message="Update result - $current_time"
         git commit -m "$commit_message" && echo "Git Committed"
         git push && echo "Git Pushed Origin"
