@@ -146,8 +146,10 @@ def generate_douyu_indexes(cate_id):
                 item['fans'] = exsit_item['fans']
 
 
+    result = filter(lambda x: x['fans']>10000, result)
     result = sorted(result, key=lambda x: x['fans'], reverse=True)
-    #print(result)
+
+    print(result)
     with open(f"douyu_indexes_{cate_id}.json", "w", encoding='utf-8') as f:
         json.dump({"data": result}, f, indent=2, ensure_ascii=False)
         print(f"已生成 douyu_indexes_{cate_id}.json文件...")  # 读取json文件
@@ -161,8 +163,6 @@ def manually_gather_douyu(gather, douyu_indexes):
     douyu_list = douyu_indexes['data']
     douyu_list = sorted(douyu_list, key=lambda x: x['fans'], reverse=True)
     for item in douyu_list:
-        if item['fans'] < 10000:
-            continue
         group = 'Douyu-'+item['game_name']
         name = item['nickname']
         url = 'https://tv.iill.top/douyu/'+item['room_id']
