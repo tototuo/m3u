@@ -897,6 +897,14 @@
       "fans": 20039
     },
     {
+      "room_id": "9129814",
+      "cate_id": 208,
+      "nickname": "拖着鞋的老拖",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/e638ed260e794e04acf2cef4026019ae_middle.jpg?rltime",
+      "fans": 19516
+    },
+    {
       "room_id": "5127679",
       "cate_id": 208,
       "nickname": "老衲智真",
@@ -2302,7 +2310,7 @@
       "nickname": "我贰大爺",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/12_middle.jpg?rltime",
-      "fans": 453
+      "fans": 487
     },
     {
       "room_id": "5668371",
