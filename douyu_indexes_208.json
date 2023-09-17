@@ -961,6 +961,14 @@
       "fans": 17156
     },
     {
+      "room_id": "23808",
+      "cate_id": 208,
+      "nickname": "电竞阆苑",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/000/58/07/88_avatar_middle.jpg?rltime",
+      "fans": 15864
+    },
+    {
       "room_id": "7642724",
       "cate_id": 208,
       "nickname": "米尼影院",
@@ -1191,6 +1199,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/1323c09e58a94801a8119ddcc5d08473_middle.jpg?rltime",
       "fans": 8334
+    },
+    {
+      "room_id": "7050342",
+      "cate_id": 208,
+      "nickname": "残存0",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202003/258547a320364f4ba4eb7f6f9a53682c_middle.jpg?rltime",
+      "fans": 8225
     },
     {
       "room_id": "314100",
@@ -2343,6 +2359,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/016/37/62/70_avatar_middle.jpg?rltime",
       "fans": 296
+    },
+    {
+      "room_id": "11762115",
+      "cate_id": 208,
+      "nickname": "打完噶额",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/04_middle.jpg?rltime",
+      "fans": 278
     },
     {
       "room_id": "9367990",
