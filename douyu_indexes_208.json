@@ -321,6 +321,14 @@
       "fans": 212922
     },
     {
+      "room_id": "10",
+      "cate_id": 208,
+      "nickname": "暴走萝莉Q",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/cb9edffb52374569b6d30003cb194947_middle.jpg?rltime",
+      "fans": 190224
+    },
+    {
       "room_id": "3439096",
       "cate_id": 208,
       "nickname": "当燕双鹰遇见李元芳",
@@ -401,14 +409,6 @@
       "fans": 126068
     },
     {
-      "room_id": "5908256",
-      "cate_id": 208,
-      "nickname": "蓝翔新三国",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_middle.jpg?rltime",
-      "fans": 126068
-    },
-    {
       "room_id": "74374",
       "cate_id": 208,
       "nickname": "Poison丶冰冰",
@@ -447,14 +447,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202209/1618042fa50347b1876f36a4926da641_middle.jpg?rltime",
       "fans": 97497
-    },
-    {
-      "room_id": "6140589",
-      "cate_id": 208,
-      "nickname": "鱼小丸梓",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_middle.jpg?rltime",
-      "fans": 91500
     },
     {
       "room_id": "6140589",
@@ -511,14 +503,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/c38e96e974a5449d88142392939d2a3a_middle.jpg?rltime",
       "fans": 76963
-    },
-    {
-      "room_id": "319576",
-      "cate_id": 208,
-      "nickname": "白了个痴",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/04_middle.jpg?rltime",
-      "fans": 73286
     },
     {
       "room_id": "319576",
