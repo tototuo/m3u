@@ -253,7 +253,7 @@
       "cate_id": 1008,
       "nickname": "ANJONI小玖",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/ad736b8237274f4eb9cf9c00a1f05d9b_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/25fe410103fd4017b8f2491224a2e531_middle.jpg?rltime",
       "fans": 384349
     },
     {
@@ -263,6 +263,22 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/8cb91b1ad0fc4e8abbe828191e7763fb_middle.jpg?rltime",
       "fans": 378239
+    },
+    {
+      "room_id": "5908581",
+      "cate_id": 1008,
+      "nickname": "毛妹ALICE",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201911/85dcfebbc2eb4b7cab09b8c0c8b4c81a_middle.jpg?rltime",
+      "fans": 369479
+    },
+    {
+      "room_id": "7666359",
+      "cate_id": 1008,
+      "nickname": "徐宅宅L",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201912/a98fa560c60c40248336fafe4f86e6df_middle.jpg?rltime",
+      "fans": 368315
     },
     {
       "room_id": "2008433",
@@ -1577,14 +1593,6 @@
       "fans": 29711
     },
     {
-      "room_id": "7512882",
-      "cate_id": 1008,
-      "nickname": "夢月Ooo",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/3ec3ac5155e04b46a59aacd774b15bc3_middle.jpg?rltime",
-      "fans": 29711
-    },
-    {
       "room_id": "950805",
       "cate_id": 1008,
       "nickname": "每天吃不饱的力酱",
@@ -1821,7 +1829,7 @@
       "cate_id": 1008,
       "nickname": "果酱Broly",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/f7d61a0ea3bb4c179af7b5e24f94953e_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c40123533b63479b8fb346526d08042d_middle.jpg?rltime",
       "fans": 24489
     },
     {
@@ -1951,6 +1959,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/c346667c52e641d3939fba6992c9c22e_middle.jpg?rltime",
       "fans": 22750
+    },
+    {
+      "room_id": "9645093",
+      "cate_id": 1008,
+      "nickname": "小玲酱吖",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/b5fc7c7c5da64ae9bc3cd2596f88fa02_middle.jpg?rltime",
+      "fans": 22644
     },
     {
       "room_id": "5870088",
