@@ -1361,6 +1361,14 @@
       "fans": 41464
     },
     {
+      "room_id": "9789841",
+      "cate_id": 1008,
+      "nickname": "TT吃不胖",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/17ca4a5c39d4446ebf4355c74110fac4_middle.jpg?rltime",
+      "fans": 40620
+    },
+    {
       "room_id": "2040864",
       "cate_id": 1008,
       "nickname": "鹿晚n",
@@ -3121,19 +3129,19 @@
       "fans": 11519
     },
     {
-      "room_id": "7699085",
-      "cate_id": 1008,
-      "nickname": "栗妹",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/144641c94618435cbd0c31f8504099ee_middle.jpg?rltime",
-      "fans": 11491
-    },
-    {
       "room_id": "11419291",
       "cate_id": 1008,
       "nickname": "一只颜宝er",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/d0b895476de9469384f9b924e55bf653_middle.jpg?rltime",
+      "fans": 11491
+    },
+    {
+      "room_id": "7699085",
+      "cate_id": 1008,
+      "nickname": "栗妹",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/144641c94618435cbd0c31f8504099ee_middle.jpg?rltime",
       "fans": 11491
     },
     {
