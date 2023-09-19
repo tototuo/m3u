@@ -2145,6 +2145,14 @@
       "fans": 18052
     },
     {
+      "room_id": "10108045",
+      "cate_id": 1,
+      "nickname": "afacool",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/004d50e23bb24a209b7e3aad8de92669_middle.jpg?rltime",
+      "fans": 18025
+    },
+    {
       "room_id": "8592067",
       "cate_id": 1,
       "nickname": "鱼夫c",
@@ -2415,6 +2423,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/ab85d97b0e214afc9697fe77c0a9f1b8_middle.jpg?rltime",
       "fans": 13578
+    },
+    {
+      "room_id": "2135296",
+      "cate_id": 1,
+      "nickname": "阿堂啦",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201705/09/19/85d866f6965070d42303ea9042ee33b7_middle.jpg?rltime",
+      "fans": 13351
     },
     {
       "room_id": "8897776",
