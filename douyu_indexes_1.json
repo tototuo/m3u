@@ -1809,6 +1809,14 @@
       "fans": 25846
     },
     {
+      "room_id": "4348637",
+      "cate_id": 1,
+      "nickname": "奶宝宝ii",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201911/5a1ca692f539467f8796564ddaa9090b_middle.jpg?rltime",
+      "fans": 25737
+    },
+    {
       "room_id": "10047735",
       "cate_id": 1,
       "nickname": "ty215416",
@@ -2729,6 +2737,14 @@
       "fans": 11479
     },
     {
+      "room_id": "10030529",
+      "cate_id": 1,
+      "nickname": "少钕哪吒",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/23262aefe06a4f4899abb9094e89390e_middle.jpg?rltime",
+      "fans": 11459
+    },
+    {
       "room_id": "4635291",
       "cate_id": 1,
       "nickname": "小墨鱼ovo",
@@ -2951,6 +2967,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202108/0ececc748c2c490a8dae41fe24eeb321_middle.jpg?rltime",
       "fans": 10016
+    },
+    {
+      "room_id": "9277143",
+      "cate_id": 1,
+      "nickname": "feifulo",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/926e3254ee704124b0d27423f8b7147e_middle.jpg?rltime",
+      "fans": 10010
     },
     {
       "room_id": "619632",
