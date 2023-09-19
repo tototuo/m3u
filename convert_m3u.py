@@ -165,7 +165,7 @@ def manually_gather_douyu(gather, douyu_indexes):
     for item in douyu_list:
         group = 'Douyu-'+item['game_name']
         name = item['nickname']
-        url = 'https://tv.iill.top/douyu/'+item['room_id']
+        url = 'https://www.goodiptv.club/douyu/'+item['room_id']   #'https://tv.iill.top/douyu/'+item['room_id']
         logo = item['avatar_mid']
         gather.append((group, name, url, logo))
         # print(item['fans'])
