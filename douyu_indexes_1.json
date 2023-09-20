@@ -2859,7 +2859,7 @@
     {
       "room_id": "5873937",
       "cate_id": 1,
-      "nickname": "梦梦的无情风",
+      "nickname": "桃跑的无情风",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201810/9803335a4f11c048ec6d6d08c0cf8117_middle.jpg?rltime",
       "fans": 10458
@@ -2969,19 +2969,19 @@
       "fans": 10016
     },
     {
-      "room_id": "9277143",
-      "cate_id": 1,
-      "nickname": "feifulo",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/926e3254ee704124b0d27423f8b7147e_middle.jpg?rltime",
-      "fans": 10010
-    },
-    {
       "room_id": "619632",
       "cate_id": 1,
       "nickname": "浅浅Ekko",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201907/629c44074ef84f19891e857004a28281_middle.jpg?rltime",
+      "fans": 10010
+    },
+    {
+      "room_id": "9277143",
+      "cate_id": 1,
+      "nickname": "feifulo",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/926e3254ee704124b0d27423f8b7147e_middle.jpg?rltime",
       "fans": 10010
     },
     {
