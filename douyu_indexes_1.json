@@ -905,6 +905,14 @@
       "fans": 140404
     },
     {
+      "room_id": "6853071",
+      "cate_id": 1,
+      "nickname": "小新AAO",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202111/19dcd76301e64e249061df57d755d98f_middle.jpg?rltime",
+      "fans": 137542
+    },
+    {
       "room_id": "19389",
       "cate_id": 1,
       "nickname": "预言家lol",
@@ -2081,6 +2089,14 @@
       "fans": 20303
     },
     {
+      "room_id": "2332445",
+      "cate_id": 1,
+      "nickname": "至阴知音",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/e570f6a6b3b34e05acb6930137b5ea04_middle.jpg?rltime",
+      "fans": 20198
+    },
+    {
       "room_id": "8972082",
       "cate_id": 1,
       "nickname": "一锤超人0v0",
@@ -2863,6 +2879,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/ddb3edb19132477f9074006eafe934d8_middle.jpg?rltime",
       "fans": 10628
+    },
+    {
+      "room_id": "7381419",
+      "cate_id": 1,
+      "nickname": "战神俄洛伊",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202011/2e25c2c42cd743619f22863245e16604_middle.jpg?rltime",
+      "fans": 10516
     },
     {
       "room_id": "9985652",
