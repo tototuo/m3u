@@ -477,7 +477,7 @@
       "cate_id": 1008,
       "nickname": "MICO要抱抱",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/112bf61f09dd445782bc4d097d8cf427_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/51a6a10fc50c43db842907db4b7d477a_middle.jpg?rltime",
       "fans": 237378
     },
     {
@@ -2889,6 +2889,14 @@
       "fans": 13465
     },
     {
+      "room_id": "7309881",
+      "cate_id": 1008,
+      "nickname": "哟这不是CC嘛",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/989b450be6744d9d9d894b4244daa590_middle.jpg?rltime",
+      "fans": 13387
+    },
+    {
       "room_id": "9676000",
       "cate_id": 1008,
       "nickname": "零奇零西",
@@ -2919,6 +2927,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/25a161e0171b47a9bca5fb2e90011aa2_middle.jpg?rltime",
       "fans": 13271
+    },
+    {
+      "room_id": "9779723",
+      "cate_id": 1008,
+      "nickname": "雪儿可皮啦",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202204/09d51c82fbe84374a7fb2499d067da32_middle.jpg?rltime",
+      "fans": 13270
     },
     {
       "room_id": "9203165",
