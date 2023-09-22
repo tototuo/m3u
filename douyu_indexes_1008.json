@@ -105,6 +105,14 @@
       "fans": 761433
     },
     {
+      "room_id": "5517238",
+      "cate_id": 1008,
+      "nickname": "vivi小小酥",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/3f6135fb946b43acb4d904e0179ea1ee_middle.jpg?rltime",
+      "fans": 698535
+    },
+    {
       "room_id": "3583605",
       "cate_id": 1008,
       "nickname": "宋鲸儿",
@@ -601,6 +609,14 @@
       "fans": 169789
     },
     {
+      "room_id": "4566947",
+      "cate_id": 1008,
+      "nickname": "关晓羽",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/70e0187050c246108288a785ea287ea9_middle.jpg?rltime",
+      "fans": 169789
+    },
+    {
       "room_id": "9435222",
       "cate_id": 1008,
       "nickname": "小栗吱",
@@ -615,6 +631,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/54a79631efb14339ad7e32e363f8cdbb_middle.jpg?rltime",
       "fans": 166886
+    },
+    {
+      "room_id": "7154540",
+      "cate_id": 1008,
+      "nickname": "麦子酱Maz",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201906/ae3b0fd78045415188e0baba7e3814b9_middle.jpg?rltime",
+      "fans": 165475
     },
     {
       "room_id": "3172126",
@@ -1463,6 +1487,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/1abebac9464f4f368483ad4e83ddc410_middle.jpg?rltime",
       "fans": 38501
+    },
+    {
+      "room_id": "6553639",
+      "cate_id": 1008,
+      "nickname": "大宝小宝丿",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/71881648ba314f9dbf611ae489c21e19_middle.jpg?rltime",
+      "fans": 38478
     },
     {
       "room_id": "7583248",
@@ -3281,19 +3313,19 @@
       "fans": 11519
     },
     {
-      "room_id": "7699085",
-      "cate_id": 1008,
-      "nickname": "栗妹",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/144641c94618435cbd0c31f8504099ee_middle.jpg?rltime",
-      "fans": 11491
-    },
-    {
       "room_id": "11419291",
       "cate_id": 1008,
       "nickname": "一只颜宝er",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/d0b895476de9469384f9b924e55bf653_middle.jpg?rltime",
+      "fans": 11491
+    },
+    {
+      "room_id": "7699085",
+      "cate_id": 1008,
+      "nickname": "栗妹",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/144641c94618435cbd0c31f8504099ee_middle.jpg?rltime",
       "fans": 11491
     },
     {
