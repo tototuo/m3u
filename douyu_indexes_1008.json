@@ -2819,7 +2819,7 @@
     {
       "room_id": "7096276",
       "cate_id": 1008,
-      "nickname": "曦钰儿Star",
+      "nickname": "糖星mm",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/8137ee91e8144dacb9720febdda336a7_middle.jpg?rltime",
       "fans": 14856
@@ -2919,6 +2919,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/6dd20ee4d7764ad4bf7230ec6beeac8e_middle.jpg?rltime",
       "fans": 13956
+    },
+    {
+      "room_id": "9609072",
+      "cate_id": 1008,
+      "nickname": "MVP店小二",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/fd84f591d2f34137ae24981f2f57504f_middle.jpg?rltime",
+      "fans": 13797
     },
     {
       "room_id": "9528618",
@@ -3607,6 +3615,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/d8627f4634ba480ea6f2387f462ff3c4_middle.jpg?rltime",
       "fans": 10360
+    },
+    {
+      "room_id": "7844392",
+      "cate_id": 1008,
+      "nickname": "Strive加恩",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/85af3ae262744caf9683decd5df0283b_middle.jpg?rltime",
+      "fans": 10338
     },
     {
       "room_id": "10327903",
