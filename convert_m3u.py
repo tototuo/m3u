@@ -146,7 +146,7 @@ def generate_douyu_indexes(cate_id):
                 item['fans'] = exsit_item['fans']
 
 
-    result = filter(lambda x: x['fans']>10000, result)
+    result = filter(lambda x: x['fans']>50000, result)
     result = sorted(result, key=lambda x: x['fans'], reverse=True)
 
     print(result)
