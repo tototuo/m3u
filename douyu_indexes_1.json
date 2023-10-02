@@ -977,6 +977,14 @@
       "fans": 133578
     },
     {
+      "room_id": "3022003",
+      "cate_id": 1,
+      "nickname": "我都想笑了",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202109/5dbb2ca8028344a6a40e153c4d7177e7_middle.jpg?rltime",
+      "fans": 133010
+    },
+    {
       "room_id": "3545866",
       "cate_id": 1,
       "nickname": "奶妈的安眠药",
@@ -1087,6 +1095,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201807/3d5fd9005586f2923afebea675687bc8_middle.jpg?rltime",
       "fans": 104236
+    },
+    {
+      "room_id": "8141359",
+      "cate_id": 1,
+      "nickname": "晚柠cc",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/547236f7482b4aaa806297664e86b218_middle.jpg?rltime",
+      "fans": 104052
     },
     {
       "room_id": "3851637",
