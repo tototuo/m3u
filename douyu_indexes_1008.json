@@ -697,6 +697,14 @@
       "fans": 146933
     },
     {
+      "room_id": "6554231",
+      "cate_id": 1008,
+      "nickname": "张暮烟耶",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/a4a62a10a86b404ca10d40011ff5be8d_middle.jpg?rltime",
+      "fans": 146482
+    },
+    {
       "room_id": "5622513",
       "cate_id": 1008,
       "nickname": "于饵",
@@ -1085,7 +1093,7 @@
       "cate_id": 1008,
       "nickname": "三千很忙的",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/7ca3797cf1fb4e0e94f1461e95a6eef8_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/56f111682413415e8c7b41b28932b89a_middle.jpg?rltime",
       "fans": 70187
     },
     {
