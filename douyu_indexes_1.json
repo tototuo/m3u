@@ -649,6 +649,14 @@
       "fans": 330201
     },
     {
+      "room_id": "673320",
+      "cate_id": 1,
+      "nickname": "赛事专用直播间1",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/1e916637f4b242a7813f16b6ec594f8b_middle.jpg?rltime",
+      "fans": 325650
+    },
+    {
       "room_id": "1535121",
       "cate_id": 1,
       "nickname": "LMQ丶小搞笑",
