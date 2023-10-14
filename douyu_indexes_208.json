@@ -353,14 +353,6 @@
       "fans": 212922
     },
     {
-      "room_id": "6566658",
-      "cate_id": 208,
-      "nickname": "睡不着的小圆子",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202108/3de150a0236b4a87a9c0377e59955970_middle.jpg?rltime",
-      "fans": 212922
-    },
-    {
       "room_id": "10",
       "cate_id": 208,
       "nickname": "暴走萝莉Q",
@@ -633,6 +625,14 @@
       "fans": 61510
     },
     {
+      "room_id": "6241733",
+      "cate_id": 208,
+      "nickname": "波奶瓶",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201910/a57317881b6c4831bcc9d378b5912fc6_middle.jpg?rltime",
+      "fans": 58715
+    },
+    {
       "room_id": "3980787",
       "cate_id": 208,
       "nickname": "清汤寡水之情景喜剧",
@@ -671,14 +671,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_middle.jpg?rltime",
       "fans": 54947
-    },
-    {
-      "room_id": "9650860",
-      "cate_id": 208,
-      "nickname": "龙飞凤舞宝藏号",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202008/4ccd08ca738f460c9f2af9ba32cb523e_middle.jpg?rltime",
-      "fans": 50623
     },
     {
       "room_id": "9650860",
