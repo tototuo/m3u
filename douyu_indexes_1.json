@@ -241,6 +241,14 @@
       "fans": 1253658
     },
     {
+      "room_id": "6",
+      "cate_id": 1,
+      "nickname": "斗鱼官方直播",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/a5802f4a1de2416ba028ed831e11c7bd_middle.jpg?rltime",
+      "fans": 1245491
+    },
+    {
       "room_id": "338281",
       "cate_id": 1,
       "nickname": "疯狗炼金",
@@ -909,7 +917,7 @@
       "cate_id": 1,
       "nickname": "作作金克丝",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/315699db77f3476e9b6f67d4f10dc787_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/17bd6e09937d4fbbb832ce5c95da6c67_middle.jpg?rltime",
       "fans": 165572
     },
     {
