@@ -97,14 +97,6 @@
       "fans": 990942
     },
     {
-      "room_id": "276200",
-      "cate_id": 208,
-      "nickname": "是一坨蓝翔啊",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202101/2f61f40b099b4a648c7614ab7c5a891a_middle.jpg?rltime",
-      "fans": 990942
-    },
-    {
       "room_id": "5423",
       "cate_id": 208,
       "nickname": "安全套不套",
@@ -159,14 +151,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/783ab1ea791f45b2b2d05983caba2ffe_middle.jpg?rltime",
       "fans": 833091
-    },
-    {
-      "room_id": "747764",
-      "cate_id": 208,
-      "nickname": "伊太刀刀",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_middle.jpg?rltime",
-      "fans": 718607
     },
     {
       "room_id": "747764",
@@ -335,6 +319,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201706/29/11/e40191ab8b3fea78a9af4d7636ae27d6_middle.jpg?rltime",
       "fans": 222675
+    },
+    {
+      "room_id": "5033502",
+      "cate_id": 208,
+      "nickname": "小粤兒",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_middle.jpg?rltime",
+      "fans": 218424
     },
     {
       "room_id": "5033502",
