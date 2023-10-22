@@ -25,14 +25,6 @@
       "fans": 2770448
     },
     {
-      "room_id": "218859",
-      "cate_id": 208,
-      "nickname": "UnaDirezione",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
-      "fans": 2770448
-    },
-    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -257,6 +249,14 @@
       "fans": 331651
     },
     {
+      "room_id": "6566671",
+      "cate_id": 208,
+      "nickname": "超甜小野喵",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201905/d24b95034cae43d2af6edc5fcd11f08a_middle.jpg?rltime",
+      "fans": 331651
+    },
+    {
       "room_id": "997925",
       "cate_id": 208,
       "nickname": "草帽丶海贼团",
@@ -271,6 +271,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_middle.jpg?rltime",
       "fans": 290382
+    },
+    {
+      "room_id": "131977",
+      "cate_id": 208,
+      "nickname": "刘少丶7012",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201610/15/00/d31243bd06b6bf5ae33738019ab63b12_middle.jpg?rltime",
+      "fans": 289506
     },
     {
       "room_id": "131977",
