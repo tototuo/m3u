@@ -1209,6 +1209,14 @@
       "fans": 67287
     },
     {
+      "room_id": "8868514",
+      "cate_id": 1008,
+      "nickname": "周书真",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/bb1575022b6d4e09a94b9a6851931011_middle.jpg?rltime",
+      "fans": 66741
+    },
+    {
       "room_id": "756836",
       "cate_id": 1008,
       "nickname": "一只夏a",
@@ -1247,14 +1255,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/7dda82a4835e4068ba0926b5adbebbf0_middle.jpg?rltime",
       "fans": 63341
-    },
-    {
-      "room_id": "8868514",
-      "cate_id": 1008,
-      "nickname": "周书真",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/bb1575022b6d4e09a94b9a6851931011_middle.jpg?rltime",
-      "fans": 62602
     },
     {
       "room_id": "3165201",
@@ -1439,14 +1439,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/4d62cfb79a9d4f8d9518671a8c5b3386_middle.jpg?rltime",
       "fans": 50472
-    },
-    {
-      "room_id": "2701816",
-      "cate_id": 1008,
-      "nickname": "绿子呀丶",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/a10eed4de8154f7a87b5887c7c7eeee9_middle.jpg?rltime",
-      "fans": 50301
     },
     {
       "room_id": "2701816",
