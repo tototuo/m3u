@@ -641,6 +641,14 @@
       "fans": 182309
     },
     {
+      "room_id": "9435222",
+      "cate_id": 1008,
+      "nickname": "小栗吱",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/4f36f31937d64319b6fb1fa95971d8cc_middle.jpg?rltime",
+      "fans": 176908
+    },
+    {
       "room_id": "7130628",
       "cate_id": 1008,
       "nickname": "芋泥啵啵I",
@@ -663,22 +671,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/70e0187050c246108288a785ea287ea9_middle.jpg?rltime",
       "fans": 169789
-    },
-    {
-      "room_id": "9435222",
-      "cate_id": 1008,
-      "nickname": "小栗吱",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/4f36f31937d64319b6fb1fa95971d8cc_middle.jpg?rltime",
-      "fans": 167920
-    },
-    {
-      "room_id": "5522765",
-      "cate_id": 1008,
-      "nickname": "我是小怡呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/54a79631efb14339ad7e32e363f8cdbb_middle.jpg?rltime",
-      "fans": 166886
     },
     {
       "room_id": "5522765",
