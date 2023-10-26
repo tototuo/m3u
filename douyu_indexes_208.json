@@ -25,6 +25,14 @@
       "fans": 2770448
     },
     {
+      "room_id": "218859",
+      "cate_id": 208,
+      "nickname": "UnaDirezione",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
+      "fans": 2770448
+    },
+    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -165,7 +173,7 @@
       "cate_id": 208,
       "nickname": "Rainsunn",
       "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/f9712a0f1fb14980879be2dc7414da2d_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/047b303df2634c7f8b1058f25c45f2ed_middle.jpg?rltime",
       "fans": 548301
     },
     {
@@ -417,6 +425,14 @@
       "fans": 139037
     },
     {
+      "room_id": "5908256",
+      "cate_id": 208,
+      "nickname": "蓝翔新三国",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_middle.jpg?rltime",
+      "fans": 139037
+    },
+    {
       "room_id": "7459925",
       "cate_id": 208,
       "nickname": "蓝翔老三国",
@@ -591,6 +607,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/ca5c676a22624704918926240dafd120_middle.jpg?rltime",
       "fans": 72011
+    },
+    {
+      "room_id": "7489563",
+      "cate_id": 208,
+      "nickname": "大片片说小片",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/3211cbfe39b94498b8f9cd8362d96d08_middle.jpg?rltime",
+      "fans": 70135
     },
     {
       "room_id": "7489563",
