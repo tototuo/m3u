@@ -179,7 +179,7 @@
     {
       "room_id": "6677800",
       "cate_id": 1008,
-      "nickname": "喵小八i",
+      "nickname": "蔡胖达u",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/ed9ad35cfef541c08db3816854e17f96_middle.jpg?rltime",
       "fans": 573043
@@ -511,6 +511,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/69c83f4e2ff34f3babf19dfaa9ada812_middle.jpg?rltime",
       "fans": 240988
+    },
+    {
+      "room_id": "6519050",
+      "cate_id": 1008,
+      "nickname": "你要尝一块面包吗",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/11c1f24fdde34b04910cafe0e13704c1_middle.jpg?rltime",
+      "fans": 238239
     },
     {
       "room_id": "6519050",
@@ -945,20 +953,20 @@
       "fans": 100509
     },
     {
+      "room_id": "7263285",
+      "cate_id": 1008,
+      "nickname": "钱蒙蒙MM",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/869550ea3a4f411480bc50672673ac15_middle.jpg?rltime",
+      "fans": 98764
+    },
+    {
       "room_id": "6452964",
       "cate_id": 1008,
       "nickname": "小白羊yoyo",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201904/96efa38be73046f285cc641bfeaa70e3_middle.jpg?rltime",
       "fans": 94222
-    },
-    {
-      "room_id": "7263285",
-      "cate_id": 1008,
-      "nickname": "钱蒙蒙MM",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/3c22f7b3a83549859c1e82e0ecbf61b7_middle.jpg?rltime",
-      "fans": 93922
     },
     {
       "room_id": "9635701",
