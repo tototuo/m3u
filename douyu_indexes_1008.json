@@ -717,7 +717,7 @@
       "cate_id": 1008,
       "nickname": "杨怡是个小仙女",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/ac5b233222d544a1bd489c71f57b2dbe_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/18a9227bb35e4e499b18f2f23821ff83_middle.jpg?rltime",
       "fans": 162740
     },
     {
@@ -1047,6 +1047,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/64e7a145698a42a0b11925ebe8c21882_middle.jpg?rltime",
       "fans": 86624
+    },
+    {
+      "room_id": "7111539",
+      "cate_id": 1008,
+      "nickname": "养成系小真真",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/efa514c77e234b3f9c4030e9db6206f1_middle.jpg?rltime",
+      "fans": 85545
     },
     {
       "room_id": "10060909",
