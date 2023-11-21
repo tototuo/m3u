@@ -25,14 +25,6 @@
       "fans": 2770448
     },
     {
-      "room_id": "218859",
-      "cate_id": 208,
-      "nickname": "UnaDirezione",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
-      "fans": 2770448
-    },
-    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -47,6 +39,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/b47d17758975484c826f4f0787c2a2a8_middle.jpg?rltime",
       "fans": 2661711
+    },
+    {
+      "room_id": "4332",
+      "cate_id": 208,
+      "nickname": "狂拽酷炫",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_middle.jpg?rltime",
+      "fans": 2230684
     },
     {
       "room_id": "4332",
@@ -207,6 +207,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201902/4a23b4202aa54ccfa7054e88a5b87527_middle.jpg?rltime",
       "fans": 417527
+    },
+    {
+      "room_id": "4549169",
+      "cate_id": 208,
+      "nickname": "橙記Orange丶",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_middle.jpg?rltime",
+      "fans": 414967
     },
     {
       "room_id": "4549169",
@@ -647,6 +655,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/a8af48dad72244ca90e650b71b5db77c_middle.jpg?rltime",
       "fans": 70501
+    },
+    {
+      "room_id": "7489563",
+      "cate_id": 208,
+      "nickname": "大片片说小片",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/3211cbfe39b94498b8f9cd8362d96d08_middle.jpg?rltime",
+      "fans": 70135
     },
     {
       "room_id": "7489563",
