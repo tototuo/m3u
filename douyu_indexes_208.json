@@ -409,6 +409,14 @@
       "fans": 170502
     },
     {
+      "room_id": "5908256",
+      "cate_id": 208,
+      "nickname": "蓝翔新三国",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_middle.jpg?rltime",
+      "fans": 145994
+    },
+    {
       "room_id": "4246519",
       "cate_id": 208,
       "nickname": "Only丶邵氏",
@@ -423,14 +431,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201905/7ce558844cfb442cad714d78caa6d6ae_middle.jpg?rltime",
       "fans": 140771
-    },
-    {
-      "room_id": "5908256",
-      "cate_id": 208,
-      "nickname": "蓝翔新三国",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_middle.jpg?rltime",
-      "fans": 139037
     },
     {
       "room_id": "7459925",
@@ -653,7 +653,7 @@
       "cate_id": 208,
       "nickname": "十七岁的道姑",
       "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/70824a063a39451bb06e31139ea1c2ed_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/45875ed7c95e4e449afa0f544a4a0cea_middle.jpg?rltime",
       "fans": 66052
     },
     {
