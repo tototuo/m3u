@@ -539,7 +539,7 @@
     {
       "room_id": "6519050",
       "cate_id": 1008,
-      "nickname": "你要尝一块面包吗",
+      "nickname": "今同",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/11c1f24fdde34b04910cafe0e13704c1_middle.jpg?rltime",
       "fans": 238239
@@ -905,6 +905,14 @@
       "fans": 111414
     },
     {
+      "room_id": "8141359",
+      "cate_id": 1008,
+      "nickname": "晚柠cc",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/547236f7482b4aaa806297664e86b218_middle.jpg?rltime",
+      "fans": 110937
+    },
+    {
       "room_id": "4125556",
       "cate_id": 1008,
       "nickname": "Skr丶大伟伟",
@@ -951,14 +959,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/6ddfe8fb02464abca87b97e1e23939aa_middle.jpg?rltime",
       "fans": 105767
-    },
-    {
-      "room_id": "8141359",
-      "cate_id": 1008,
-      "nickname": "晚柠cc",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/547236f7482b4aaa806297664e86b218_middle.jpg?rltime",
-      "fans": 105643
     },
     {
       "room_id": "9700757",
