@@ -25,6 +25,14 @@
       "fans": 2770448
     },
     {
+      "room_id": "218859",
+      "cate_id": 208,
+      "nickname": "UnaDirezione",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
+      "fans": 2770448
+    },
+    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -257,6 +265,14 @@
       "fans": 331651
     },
     {
+      "room_id": "6566671",
+      "cate_id": 208,
+      "nickname": "珍珠奶茶嗯哼哎哟",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_middle.jpg?rltime",
+      "fans": 331651
+    },
+    {
       "room_id": "1080583",
       "cate_id": 208,
       "nickname": "HXD丶友蓝雨",
@@ -423,6 +439,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_middle.jpg?rltime",
       "fans": 143076
+    },
+    {
+      "room_id": "6484910",
+      "cate_id": 208,
+      "nickname": "名侦探柯南之银色子弹",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201905/7ce558844cfb442cad714d78caa6d6ae_middle.jpg?rltime",
+      "fans": 140771
     },
     {
       "room_id": "6484910",
@@ -631,14 +655,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/a8af48dad72244ca90e650b71b5db77c_middle.jpg?rltime",
       "fans": 70501
-    },
-    {
-      "room_id": "7489563",
-      "cate_id": 208,
-      "nickname": "大片片说小片",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/3211cbfe39b94498b8f9cd8362d96d08_middle.jpg?rltime",
-      "fans": 70135
     },
     {
       "room_id": "7489563",
