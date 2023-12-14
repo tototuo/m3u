@@ -1065,14 +1065,6 @@
       "fans": 86624
     },
     {
-      "room_id": "7111539",
-      "cate_id": 1008,
-      "nickname": "养成系小真真",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/efa514c77e234b3f9c4030e9db6206f1_middle.jpg?rltime",
-      "fans": 85545
-    },
-    {
       "room_id": "10060909",
       "cate_id": 1008,
       "nickname": "小冉冉y",
@@ -1127,6 +1119,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/0407afdf2bb74cecbbb7e4b69ce87e33_middle.jpg?rltime",
       "fans": 81870
+    },
+    {
+      "room_id": "7111539",
+      "cate_id": 1008,
+      "nickname": "养成系小真真",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/efa514c77e234b3f9c4030e9db6206f1_middle.jpg?rltime",
+      "fans": 81264
     },
     {
       "room_id": "6209510",
