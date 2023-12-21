@@ -1091,7 +1091,7 @@
     {
       "room_id": "7518922",
       "cate_id": 1008,
-      "nickname": "吃圆子",
+      "nickname": "大口吃圆子",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/7af012d4e4e34ee6a2d7582d56302fcb_middle.jpg?rltime",
       "fans": 83287
@@ -1455,6 +1455,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ec20cb70c5e44148825a6cae3d929547_middle.jpg?rltime",
       "fans": 59185
+    },
+    {
+      "room_id": "9266234",
+      "cate_id": 1008,
+      "nickname": "Miss木林森",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/209e708fdf074d52be478c158b3361b8_middle.jpg?rltime",
+      "fans": 58867
     },
     {
       "room_id": "9266234",
