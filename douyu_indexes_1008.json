@@ -237,7 +237,7 @@
       "cate_id": 1008,
       "nickname": "艺瑟妃",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/1d05852c79de4b93aaad77ba3ed9c470_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202401/f1d280669bb94f00baf2c26674fd6b53_middle.jpg?rltime",
       "fans": 489792
     },
     {
@@ -1081,14 +1081,6 @@
       "fans": 86624
     },
     {
-      "room_id": "9119329",
-      "cate_id": 1008,
-      "nickname": "欧尼酱七七",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/039bef0068934d44bb4d576d7cf1bd38_middle.jpg?rltime",
-      "fans": 86624
-    },
-    {
       "room_id": "10060909",
       "cate_id": 1008,
       "nickname": "小冉冉y",
@@ -1473,6 +1465,14 @@
       "fans": 61002
     },
     {
+      "room_id": "5711617",
+      "cate_id": 1008,
+      "nickname": "楚嘉许丶",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/79c32b905e9e480ead756f589438c7cc_middle.jpg?rltime",
+      "fans": 60398
+    },
+    {
       "room_id": "9119044",
       "cate_id": 1008,
       "nickname": "i妍霏",
@@ -1495,14 +1495,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/209e708fdf074d52be478c158b3361b8_middle.jpg?rltime",
       "fans": 58867
-    },
-    {
-      "room_id": "5711617",
-      "cate_id": 1008,
-      "nickname": "楚嘉许丶",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/79c32b905e9e480ead756f589438c7cc_middle.jpg?rltime",
-      "fans": 57514
     },
     {
       "room_id": "5271808",
@@ -1647,6 +1639,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/2fcfa5ca2b9045b994b553fe99ff04b5_middle.jpg?rltime",
       "fans": 50106
+    },
+    {
+      "room_id": "10326023",
+      "cate_id": 1008,
+      "nickname": "吵吵公主",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/35d1e28885b1496baea81197dbc04615_middle.jpg?rltime",
+      "fans": 50031
     }
   ]
 }
