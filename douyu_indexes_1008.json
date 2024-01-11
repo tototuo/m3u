@@ -1361,6 +1361,14 @@
       "fans": 66076
     },
     {
+      "room_id": "7907534",
+      "cate_id": 1008,
+      "nickname": "林叁叁x",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c1003e5358bd449ea357c3b2fefce7a4_middle.jpg?rltime",
+      "fans": 65896
+    },
+    {
       "room_id": "6694867",
       "cate_id": 1008,
       "nickname": "瑤瑶酱OvO",
@@ -1423,14 +1431,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/1015a3a839dd440b922bcd5ba023fa51_middle.jpg?rltime",
       "fans": 62871
-    },
-    {
-      "room_id": "7907534",
-      "cate_id": 1008,
-      "nickname": "林叁叁x",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c1003e5358bd449ea357c3b2fefce7a4_middle.jpg?rltime",
-      "fans": 62388
     },
     {
       "room_id": "3165201",
@@ -1599,6 +1599,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/3d8ea3f6d9614985a2631933e9512830_middle.jpg?rltime",
       "fans": 51574
+    },
+    {
+      "room_id": "6851797",
+      "cate_id": 1008,
+      "nickname": "馨巴",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202101/373cd6fc0ba64a70a21250faa4fc2683_middle.jpg?rltime",
+      "fans": 51494
     },
     {
       "room_id": "7039579",
