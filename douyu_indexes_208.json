@@ -17,6 +17,14 @@
       "fans": 3007098
     },
     {
+      "room_id": "85894",
+      "cate_id": 208,
+      "nickname": "进击的神乐",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_middle.jpg?rltime",
+      "fans": 3007098
+    },
+    {
       "room_id": "218859",
       "cate_id": 208,
       "nickname": "UnaDirezione",
@@ -49,6 +57,14 @@
       "fans": 2230684
     },
     {
+      "room_id": "4332",
+      "cate_id": 208,
+      "nickname": "狂拽酷炫",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_middle.jpg?rltime",
+      "fans": 2230684
+    },
+    {
       "room_id": "206858",
       "cate_id": 208,
       "nickname": "所有人都在装",
@@ -63,6 +79,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_middle.jpg?rltime",
       "fans": 1494005
+    },
+    {
+      "room_id": "96577",
+      "cate_id": 208,
+      "nickname": "UU娇哒哒呀",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_middle.jpg?rltime",
+      "fans": 1308546
     },
     {
       "room_id": "96577",
