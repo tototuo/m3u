@@ -825,6 +825,14 @@
       "fans": 284403
     },
     {
+      "room_id": "50885",
+      "cate_id": 1,
+      "nickname": "程繁繁",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201711/21/17/8accf6b5a66e195cdedb6cec528435cd_middle.jpg?rltime",
+      "fans": 277350
+    },
+    {
       "room_id": "216895",
       "cate_id": 1,
       "nickname": "长歌与小见见",
@@ -1951,6 +1959,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202107/23a4852681064d8e917160a442d6fcbd_middle.jpg?rltime",
       "fans": 51223
+    },
+    {
+      "room_id": "10544334",
+      "cate_id": 1,
+      "nickname": "冰块哥ekko",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/228adf632bea4576850c16a735a7198a_middle.jpg?rltime",
+      "fans": 50001
     }
   ]
 }
