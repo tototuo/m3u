@@ -1281,6 +1281,14 @@
       "fans": 78258
     },
     {
+      "room_id": "8868514",
+      "cate_id": 1008,
+      "nickname": "周书真",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/c8bcab32f24e41988f8341abf96b4f5f_middle.jpg?rltime",
+      "fans": 77836
+    },
+    {
       "room_id": "10267639",
       "cate_id": 1008,
       "nickname": "林书贤",
@@ -1327,14 +1335,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/53e9a5f8bd82414aa6440d2487c03202_middle.jpg?rltime",
       "fans": 74683
-    },
-    {
-      "room_id": "8868514",
-      "cate_id": 1008,
-      "nickname": "周书真",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/c8bcab32f24e41988f8341abf96b4f5f_middle.jpg?rltime",
-      "fans": 74078
     },
     {
       "room_id": "2622942",
@@ -1663,14 +1663,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/2043af8331b541d7ab296d13fe92e65a_middle.jpg?rltime",
       "fans": 52555
-    },
-    {
-      "room_id": "5472240",
-      "cate_id": 1008,
-      "nickname": "夏天要有冰镇西瓜",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202101/9b7d709f597045f0bd997c881a980640_middle.jpg?rltime",
-      "fans": 51943
     },
     {
       "room_id": "5472240",
