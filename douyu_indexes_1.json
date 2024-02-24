@@ -1385,6 +1385,14 @@
       "fans": 106071
     },
     {
+      "room_id": "8256300",
+      "cate_id": 1,
+      "nickname": "子敬ad",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/b4b159552f5e43ffa1bf5324533c2921_middle.jpg?rltime",
+      "fans": 105791
+    },
+    {
       "room_id": "13423",
       "cate_id": 1,
       "nickname": "射可可可可",
@@ -1407,14 +1415,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/2c4bb74665564af78d06a0f09ebcd583_middle.jpg?rltime",
       "fans": 101578
-    },
-    {
-      "room_id": "8256300",
-      "cate_id": 1,
-      "nickname": "子敬ad",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/b4b159552f5e43ffa1bf5324533c2921_middle.jpg?rltime",
-      "fans": 100749
     },
     {
       "room_id": "554011",
