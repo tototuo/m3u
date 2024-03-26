@@ -781,7 +781,7 @@
       "cate_id": 1008,
       "nickname": "于饵",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/5cfdc9cb4b724baa828beca860c889bf_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/5b29f017b2644382b4ebf0c57159f802_middle.jpg?rltime",
       "fans": 151568
     },
     {
@@ -1241,6 +1241,14 @@
       "fans": 81870
     },
     {
+      "room_id": "8868514",
+      "cate_id": 1008,
+      "nickname": "周书真",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/c8bcab32f24e41988f8341abf96b4f5f_middle.jpg?rltime",
+      "fans": 81796
+    },
+    {
       "room_id": "7111539",
       "cate_id": 1008,
       "nickname": "养成系小真真",
@@ -1303,14 +1311,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/8ac96f86a0684f9384fc5057749fd910_middle.jpg?rltime",
       "fans": 78258
-    },
-    {
-      "room_id": "8868514",
-      "cate_id": 1008,
-      "nickname": "周书真",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/c8bcab32f24e41988f8341abf96b4f5f_middle.jpg?rltime",
-      "fans": 77836
     },
     {
       "room_id": "10267639",
