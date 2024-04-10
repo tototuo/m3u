@@ -1273,6 +1273,14 @@
       "fans": 81264
     },
     {
+      "room_id": "7814494",
+      "cate_id": 1008,
+      "nickname": "月薇薇呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/90e3212d628a4de58ea29b9437b86c42_middle.jpg?rltime",
+      "fans": 80748
+    },
+    {
       "room_id": "6209510",
       "cate_id": 1008,
       "nickname": "一清z",
@@ -1343,14 +1351,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c1003e5358bd449ea357c3b2fefce7a4_middle.jpg?rltime",
       "fans": 77487
-    },
-    {
-      "room_id": "7814494",
-      "cate_id": 1008,
-      "nickname": "月薇薇呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/0d6079864bc8415badba482cdfadd4fb_middle.jpg?rltime",
-      "fans": 76837
     },
     {
       "room_id": "4386404",
@@ -1583,6 +1583,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/751e9c94aad7489597736b93bc5039b0_middle.jpg?rltime",
       "fans": 61984
+    },
+    {
+      "room_id": "8498274",
+      "cate_id": 1008,
+      "nickname": "温小柔E",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202208/2ac41e26c4784506b4fd5ff85d65c59e_middle.jpg?rltime",
+      "fans": 61865
     },
     {
       "room_id": "10106809",
