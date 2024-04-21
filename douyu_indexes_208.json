@@ -25,6 +25,14 @@
       "fans": 2770448
     },
     {
+      "room_id": "218859",
+      "cate_id": 208,
+      "nickname": "UnaDirezione",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_middle.jpg?rltime",
+      "fans": 2770448
+    },
+    {
       "room_id": "252802",
       "cate_id": 208,
       "nickname": "狂仔酷炫",
@@ -119,6 +127,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/d87895b264f24dfdac6d6bb17410a96f_middle.jpg?rltime",
       "fans": 909103
+    },
+    {
+      "room_id": "310926",
+      "cate_id": 208,
+      "nickname": "久了旧知",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_middle.jpg?rltime",
+      "fans": 902735
     },
     {
       "room_id": "310926",
@@ -695,6 +711,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/f525c4f7c797440193d8aaff7e99693c_middle.jpg?rltime",
       "fans": 76963
+    },
+    {
+      "room_id": "319576",
+      "cate_id": 208,
+      "nickname": "白了个痴",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/default/04_middle.jpg?rltime",
+      "fans": 76951
     },
     {
       "room_id": "319576",
