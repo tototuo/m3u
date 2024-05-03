@@ -169,12 +169,28 @@
       "fans": 718607
     },
     {
+      "room_id": "747764",
+      "cate_id": 208,
+      "nickname": "伊太刀刀",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_middle.jpg?rltime",
+      "fans": 718607
+    },
+    {
       "room_id": "3507497",
       "cate_id": 208,
       "nickname": "Amsssss",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202204/1a56982bd5434550aa2323dcf9ca0a3f_middle.jpg?rltime",
       "fans": 553360
+    },
+    {
+      "room_id": "323876",
+      "cate_id": 208,
+      "nickname": "Rainsun宇",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/047b303df2634c7f8b1058f25c45f2ed_middle.jpg?rltime",
+      "fans": 548301
     },
     {
       "room_id": "323876",
@@ -329,14 +345,6 @@
       "fans": 289506
     },
     {
-      "room_id": "131977",
-      "cate_id": 208,
-      "nickname": "刘少丶7012",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201610/15/00/d31243bd06b6bf5ae33738019ab63b12_middle.jpg?rltime",
-      "fans": 289506
-    },
-    {
       "room_id": "2142758",
       "cate_id": 208,
       "nickname": "董二千阿",
@@ -439,6 +447,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/7e5534093a9f45679db16d3d055ae564_middle.jpg?rltime",
       "fans": 193543
+    },
+    {
+      "room_id": "3439096",
+      "cate_id": 208,
+      "nickname": "当燕双鹰遇见李元芳",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202010/25f11c7e91c94ea29bc130c53277e4c2_middle.jpg?rltime",
+      "fans": 186388
     },
     {
       "room_id": "3439096",
@@ -719,6 +735,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202001/db658da2ee0644aa9d31ccdebf6ac0bb_middle.jpg?rltime",
       "fans": 74483
+    },
+    {
+      "room_id": "7489563",
+      "cate_id": 208,
+      "nickname": "大片片说小片",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/3211cbfe39b94498b8f9cd8362d96d08_middle.jpg?rltime",
+      "fans": 73644
     },
     {
       "room_id": "7489563",
