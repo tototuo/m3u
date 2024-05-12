@@ -1937,6 +1937,14 @@
       "fans": 62299
     },
     {
+      "room_id": "453336",
+      "cate_id": 1,
+      "nickname": "DouYuSora",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/0967233a46c44133aec627030fc3c766_middle.jpg?rltime",
+      "fans": 62051
+    },
+    {
       "room_id": "599",
       "cate_id": 1,
       "nickname": "Ay叶秋",
@@ -1991,14 +1999,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/2cd7cf6c69a443a2bfe879dd7f4f8338_middle.jpg?rltime",
       "fans": 59378
-    },
-    {
-      "room_id": "453336",
-      "cate_id": 1,
-      "nickname": "DouYuSora",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/0967233a46c44133aec627030fc3c766_middle.jpg?rltime",
-      "fans": 59096
     },
     {
       "room_id": "223770",
