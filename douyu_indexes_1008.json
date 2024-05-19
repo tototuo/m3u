@@ -1241,12 +1241,28 @@
       "fans": 86529
     },
     {
+      "room_id": "6209510",
+      "cate_id": 1008,
+      "nickname": "一清z",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/117900b7a8404fa4aab5c7fe069ae8b6_middle.jpg?rltime",
+      "fans": 84748
+    },
+    {
       "room_id": "3559600",
       "cate_id": 1008,
       "nickname": "校霸美寶",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/896f5e9ee49c4485963ca18634ed5f12_middle.jpg?rltime",
       "fans": 84523
+    },
+    {
+      "room_id": "4933024",
+      "cate_id": 1008,
+      "nickname": "大晶要变瘦",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ba78fece7d044230a9a5487dedb65875_middle.jpg?rltime",
+      "fans": 84135
     },
     {
       "room_id": "6507743",
@@ -1313,28 +1329,12 @@
       "fans": 80748
     },
     {
-      "room_id": "6209510",
-      "cate_id": 1008,
-      "nickname": "一清z",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/117900b7a8404fa4aab5c7fe069ae8b6_middle.jpg?rltime",
-      "fans": 80531
-    },
-    {
       "room_id": "3990323",
       "cate_id": 1008,
       "nickname": "李若桐o",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202112/f8134eb9862d459fa57e51f76b996f57_middle.jpg?rltime",
       "fans": 80459
-    },
-    {
-      "room_id": "4933024",
-      "cate_id": 1008,
-      "nickname": "大晶要变瘦",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ba78fece7d044230a9a5487dedb65875_middle.jpg?rltime",
-      "fans": 79921
     },
     {
       "room_id": "8010521",
@@ -1839,6 +1839,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/c872fe069a5b4590bf469d8684046599_middle.jpg?rltime",
       "fans": 50095
+    },
+    {
+      "room_id": "6511427",
+      "cate_id": 1008,
+      "nickname": "沁潼baby",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/59723e2668484f128369fb1b9d51ae43_middle.jpg?rltime",
+      "fans": 50069
     },
     {
       "room_id": "10326023",
