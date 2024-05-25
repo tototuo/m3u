@@ -1265,6 +1265,14 @@
       "fans": 143827
     },
     {
+      "room_id": "19389",
+      "cate_id": 1,
+      "nickname": "预言家lol",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202006/4d3ad897c3204a63bc6e152a020c00a5_middle.jpg?rltime",
+      "fans": 142518
+    },
+    {
       "room_id": "5324613",
       "cate_id": 1,
       "nickname": "小白白不听不听",
@@ -1287,14 +1295,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202111/19dcd76301e64e249061df57d755d98f_middle.jpg?rltime",
       "fans": 137542
-    },
-    {
-      "room_id": "19389",
-      "cate_id": 1,
-      "nickname": "预言家lol",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202006/4d3ad897c3204a63bc6e152a020c00a5_middle.jpg?rltime",
-      "fans": 135722
     },
     {
       "room_id": "3874929",
