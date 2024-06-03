@@ -745,6 +745,14 @@
       "fans": 419001
     },
     {
+      "room_id": "4496540",
+      "cate_id": 1,
+      "nickname": "ow济南屁王",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/9b1e2a6786e449e382c7aae3dd69b3a1_middle.jpg?rltime",
+      "fans": 415625
+    },
+    {
       "room_id": "71091",
       "cate_id": 1,
       "nickname": "狼牙山凯哥",
@@ -1357,7 +1365,7 @@
       "cate_id": 1,
       "nickname": "Gnap年糕",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201811/800af3e0cb22f6b09e27cfefe498eade_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/25823e556d8240f594b02aaec6ddad45_middle.jpg?rltime",
       "fans": 157994
     },
     {
@@ -1797,7 +1805,7 @@
       "cate_id": 1,
       "nickname": "蒲蚂蚱",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/79adbf3734574582bc35a0131b4a5eca_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/8fbdac5a381046889050ecfa8fa34da6_middle.jpg?rltime",
       "fans": 86991
     },
     {
@@ -2295,6 +2303,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202206/68a93a492cfd48cdb38d9801aee5b358_middle.jpg?rltime",
       "fans": 58325
+    },
+    {
+      "room_id": "148487",
+      "cate_id": 1,
+      "nickname": "馨儿MIRANDA",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202108/c18b60e4ea57415e9b2847bcb7e7c43a_middle.jpg?rltime",
+      "fans": 57854
     },
     {
       "room_id": "198859",
