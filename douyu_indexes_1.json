@@ -1449,6 +1449,14 @@
       "fans": 140404
     },
     {
+      "room_id": "8682569",
+      "cate_id": 1,
+      "nickname": "冷少icon",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202111/264235ffa229428d9565e95d0cccd538_middle.jpg?rltime",
+      "fans": 137732
+    },
+    {
       "room_id": "6853071",
       "cate_id": 1,
       "nickname": "小新AAO",
@@ -1487,14 +1495,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/f522ecddbbba46b39cba7041ff761258_middle.jpg?rltime",
       "fans": 130987
-    },
-    {
-      "room_id": "8682569",
-      "cate_id": 1,
-      "nickname": "冷少icon",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202111/264235ffa229428d9565e95d0cccd538_middle.jpg?rltime",
-      "fans": 129950
     },
     {
       "room_id": "3545866",
@@ -2409,6 +2409,14 @@
       "fans": 54578
     },
     {
+      "room_id": "7918091",
+      "cate_id": 1,
+      "nickname": "她打了个嗝儿",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/ba20aab4af1541b0a449a731f71919fb_middle.jpg?rltime",
+      "fans": 54113
+    },
+    {
       "room_id": "4452132",
       "cate_id": 1,
       "nickname": "何二抛zZ",
@@ -2455,14 +2463,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/5c0b7f74e73f4c02bcec87e2a835277e_middle.jpg?rltime",
       "fans": 51671
-    },
-    {
-      "room_id": "7918091",
-      "cate_id": 1,
-      "nickname": "她打了个嗝儿",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/ba20aab4af1541b0a449a731f71919fb_middle.jpg?rltime",
-      "fans": 51525
     },
     {
       "room_id": "291447",
