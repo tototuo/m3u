@@ -1009,6 +1009,14 @@
       "fans": 284403
     },
     {
+      "room_id": "2561707",
+      "cate_id": 1,
+      "nickname": "网友张顺飞",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/9fc370a870d74e07a3b1438d3d63e4fc_middle.jpg?rltime",
+      "fans": 281353
+    },
+    {
       "room_id": "50885",
       "cate_id": 1,
       "nickname": "程繁繁",
@@ -1031,14 +1039,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/71dde9a92bf34d7889a14c239d29bbdc_middle.jpg?rltime",
       "fans": 270351
-    },
-    {
-      "room_id": "2561707",
-      "cate_id": 1,
-      "nickname": "网友张顺飞",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/9fc370a870d74e07a3b1438d3d63e4fc_middle.jpg?rltime",
-      "fans": 267951
     },
     {
       "room_id": "2361531",
@@ -2245,7 +2245,7 @@
       "cate_id": 1,
       "nickname": "泡泡伊芙琳",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/6ebb2fca573a4c95baab74f03cd7e5e4_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/355337e81494430d9c777ff6a8245ca7_middle.jpg?rltime",
       "fans": 63133
     },
     {
