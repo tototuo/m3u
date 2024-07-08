@@ -409,6 +409,14 @@
       "fans": 934186
     },
     {
+      "room_id": "6775193",
+      "cate_id": 1,
+      "nickname": "617丶新一",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/19be61317b0c483fb1c090ab3a34340e_middle.jpg?rltime",
+      "fans": 930461
+    },
+    {
       "room_id": "35954",
       "cate_id": 1,
       "nickname": "恶魔神",
@@ -447,14 +455,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201704/27/19/317b5053769f39104040c667f2f59997_middle.jpg?rltime",
       "fans": 891232
-    },
-    {
-      "room_id": "6775193",
-      "cate_id": 1,
-      "nickname": "617丶新一",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/19be61317b0c483fb1c090ab3a34340e_middle.jpg?rltime",
-      "fans": 885803
     },
     {
       "room_id": "24418",
@@ -2597,7 +2597,7 @@
       "cate_id": 1,
       "nickname": "可达鸽psydove",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/a8b30d21ff3345bca13f7d052a501333_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/9f070b9a84b2455f8c6cabdacda65f6a_middle.jpg?rltime",
       "fans": 52713
     },
     {
