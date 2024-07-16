@@ -641,14 +641,6 @@
       "fans": 93853
     },
     {
-      "room_id": "6027991",
-      "cate_id": 208,
-      "nickname": "当幽兰剑遇上链子刀",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_middle.jpg?rltime",
-      "fans": 93853
-    },
-    {
       "room_id": "6079455",
       "cate_id": 208,
       "nickname": "蒲蚂蚱",
@@ -831,6 +823,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/9c42e3f55bdf4a08bbb16baf911b2663_middle.jpg?rltime",
       "fans": 61510
+    },
+    {
+      "room_id": "9793886",
+      "cate_id": 208,
+      "nickname": "小徐813",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/b30d829fea164d2481568e605db2c0f3_middle.jpg?rltime",
+      "fans": 58814
     },
     {
       "room_id": "6241733",
