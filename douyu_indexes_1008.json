@@ -1441,6 +1441,22 @@
       "fans": 73316
     },
     {
+      "room_id": "7750351",
+      "cate_id": 1008,
+      "nickname": "Thea柒清",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/d29dae3d619041f8941502d974fefe8c_middle.jpg?rltime",
+      "fans": 73301
+    },
+    {
+      "room_id": "7703021",
+      "cate_id": 1008,
+      "nickname": "丸子君大魔王",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/1015a3a839dd440b922bcd5ba023fa51_middle.jpg?rltime",
+      "fans": 73291
+    },
+    {
       "room_id": "8991242",
       "cate_id": 1008,
       "nickname": "嘉欣灬",
@@ -1487,22 +1503,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/b3ca4289a03847a6b4a0d018ce5c6ec2_middle.jpg?rltime",
       "fans": 69718
-    },
-    {
-      "room_id": "7750351",
-      "cate_id": 1008,
-      "nickname": "Thea柒清",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/d29dae3d619041f8941502d974fefe8c_middle.jpg?rltime",
-      "fans": 69615
-    },
-    {
-      "room_id": "7703021",
-      "cate_id": 1008,
-      "nickname": "丸子君大魔王",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/1015a3a839dd440b922bcd5ba023fa51_middle.jpg?rltime",
-      "fans": 69557
     },
     {
       "room_id": "6434076",
