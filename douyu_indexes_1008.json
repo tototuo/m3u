@@ -673,14 +673,6 @@
       "fans": 201566
     },
     {
-      "room_id": "184972",
-      "cate_id": 1008,
-      "nickname": "ZA红牛",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/e6d6577f4bec4b368b6469fabcc0e794_middle.jpg?rltime",
-      "fans": 201566
-    },
-    {
       "room_id": "117707",
       "cate_id": 1008,
       "nickname": "路飞丶丶",
@@ -1345,6 +1337,14 @@
       "fans": 81796
     },
     {
+      "room_id": "10267639",
+      "cate_id": 1008,
+      "nickname": "林书贤",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/0c6b1a9cc2da40c9ae56b3ba73658aaa_middle.jpg?rltime",
+      "fans": 81619
+    },
+    {
       "room_id": "7111539",
       "cate_id": 1008,
       "nickname": "养成系小真真",
@@ -1407,14 +1407,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/8ac96f86a0684f9384fc5057749fd910_middle.jpg?rltime",
       "fans": 78258
-    },
-    {
-      "room_id": "10267639",
-      "cate_id": 1008,
-      "nickname": "林书贤",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/0c6b1a9cc2da40c9ae56b3ba73658aaa_middle.jpg?rltime",
-      "fans": 77522
     },
     {
       "room_id": "7907534",
