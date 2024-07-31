@@ -2497,14 +2497,6 @@
       "fans": 61691
     },
     {
-      "room_id": "7918091",
-      "cate_id": 1,
-      "nickname": "她打了个嗝儿",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/ba20aab4af1541b0a449a731f71919fb_middle.jpg?rltime",
-      "fans": 60761
-    },
-    {
       "room_id": "96898",
       "cate_id": 1,
       "nickname": "梦阿Cccc",
@@ -2607,6 +2599,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/6f2871db60f541cda44462587170da83_middle.jpg?rltime",
       "fans": 56715
+    },
+    {
+      "room_id": "7918091",
+      "cate_id": 1,
+      "nickname": "她打了个嗝儿",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202207/ba20aab4af1541b0a449a731f71919fb_middle.jpg?rltime",
+      "fans": 56501
     },
     {
       "room_id": "4223158",
