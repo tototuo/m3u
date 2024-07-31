@@ -945,6 +945,14 @@
       "fans": 128087
     },
     {
+      "room_id": "5",
+      "cate_id": 1008,
+      "nickname": "斗鱼娱乐官方直播",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/6611bf4875ae4b68a7ee8f6812b0cb70_middle.jpg?rltime",
+      "fans": 127605
+    },
+    {
       "room_id": "9732845",
       "cate_id": 1008,
       "nickname": "桥依悠悠",
@@ -1313,6 +1321,14 @@
       "fans": 84135
     },
     {
+      "room_id": "6241657",
+      "cate_id": 1008,
+      "nickname": "小小泥o",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/79075e67fb1c4370b0f5b2879b2a03bc_middle.jpg?rltime",
+      "fans": 83793
+    },
+    {
       "room_id": "7518922",
       "cate_id": 1008,
       "nickname": "大口吃汤媛",
@@ -1385,28 +1401,12 @@
       "fans": 79557
     },
     {
-      "room_id": "6241657",
-      "cate_id": 1008,
-      "nickname": "小小泥o",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/79075e67fb1c4370b0f5b2879b2a03bc_middle.jpg?rltime",
-      "fans": 79051
-    },
-    {
       "room_id": "733499",
       "cate_id": 1008,
       "nickname": "s尧尧丶",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202104/1277ceb8d8cf49529fd01ec8ef7ca684_middle.jpg?rltime",
       "fans": 78891
-    },
-    {
-      "room_id": "7703021",
-      "cate_id": 1008,
-      "nickname": "丸子君大魔王",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/1015a3a839dd440b922bcd5ba023fa51_middle.jpg?rltime",
-      "fans": 78780
     },
     {
       "room_id": "5445728",
@@ -1447,6 +1447,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202107/ee11980266c444aca7771d682f291754_middle.jpg?rltime",
       "fans": 75801
+    },
+    {
+      "room_id": "7703021",
+      "cate_id": 1008,
+      "nickname": "丸子君大魔王",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/1015a3a839dd440b922bcd5ba023fa51_middle.jpg?rltime",
+      "fans": 73886
     },
     {
       "room_id": "2622942",
@@ -1511,14 +1519,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202204/f4c69a4ee0c94567850367dad5d9a05b_middle.jpg?rltime",
       "fans": 68894
-    },
-    {
-      "room_id": "4024557",
-      "cate_id": 1008,
-      "nickname": "黑八最好打",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ec20cb70c5e44148825a6cae3d929547_middle.jpg?rltime",
-      "fans": 68166
     },
     {
       "room_id": "3518103",
@@ -1615,6 +1615,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/d0105a7f1a9141c8bb4a4ee4092ab755_middle.jpg?rltime",
       "fans": 64305
+    },
+    {
+      "room_id": "4024557",
+      "cate_id": 1008,
+      "nickname": "黑八最好打",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ec20cb70c5e44148825a6cae3d929547_middle.jpg?rltime",
+      "fans": 64216
     },
     {
       "room_id": "7208773",
@@ -1759,14 +1767,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/ac5440f6752a4f82a6c1371d3c2952e9_middle.jpg?rltime",
       "fans": 53871
-    },
-    {
-      "room_id": "10543844",
-      "cate_id": 1008,
-      "nickname": "Lucky桃桃子",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/7dbb733ff49843a5b5c1cfc50ae554d5_middle.jpg?rltime",
-      "fans": 53839
     },
     {
       "room_id": "4254153",
