@@ -913,6 +913,14 @@
       "fans": 133217
     },
     {
+      "room_id": "8031896",
+      "cate_id": 1008,
+      "nickname": "青榎",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/380b059113f44a56a99fca465ee3688d_middle.jpg?rltime",
+      "fans": 131609
+    },
+    {
       "room_id": "6129898",
       "cate_id": 1008,
       "nickname": "大王mio",
@@ -999,14 +1007,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/250ffde2503743b69ae700e7d0610181_middle.jpg?rltime",
       "fans": 121207
-    },
-    {
-      "room_id": "8031896",
-      "cate_id": 1008,
-      "nickname": "青榎",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/380b059113f44a56a99fca465ee3688d_middle.jpg?rltime",
-      "fans": 121117
     },
     {
       "room_id": "6709809",
@@ -1513,6 +1513,14 @@
       "fans": 68894
     },
     {
+      "room_id": "4024557",
+      "cate_id": 1008,
+      "nickname": "黑八最好打",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ec20cb70c5e44148825a6cae3d929547_middle.jpg?rltime",
+      "fans": 68166
+    },
+    {
       "room_id": "3518103",
       "cate_id": 1008,
       "nickname": "你的美兮呀",
@@ -1681,14 +1689,6 @@
       "fans": 62326
     },
     {
-      "room_id": "4024557",
-      "cate_id": 1008,
-      "nickname": "黑八最好打",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/ec20cb70c5e44148825a6cae3d929547_middle.jpg?rltime",
-      "fans": 62155
-    },
-    {
       "room_id": "8547234",
       "cate_id": 1008,
       "nickname": "努力的豆哥儿",
@@ -1855,6 +1855,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/7f4559454ef8487db4a940cb9eaa23b1_middle.jpg?rltime",
       "fans": 50879
+    },
+    {
+      "room_id": "3870218",
+      "cate_id": 1008,
+      "nickname": "丶丶阿阳",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/4dbc1420371b443a87395ec48fc2c278_middle.jpg?rltime",
+      "fans": 50666
     },
     {
       "room_id": "8801257",
