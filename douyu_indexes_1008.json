@@ -905,14 +905,6 @@
       "fans": 134884
     },
     {
-      "room_id": "5257370",
-      "cate_id": 1008,
-      "nickname": "新来的婉儿",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/250ffde2503743b69ae700e7d0610181_middle.jpg?rltime",
-      "fans": 133433
-    },
-    {
       "room_id": "1331743",
       "cate_id": 1008,
       "nickname": "觅音180丶",
@@ -991,6 +983,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/9eed5a98ac074361a9052b047376fb3b_middle.jpg?rltime",
       "fans": 124098
+    },
+    {
+      "room_id": "5257370",
+      "cate_id": 1008,
+      "nickname": "新来的婉儿",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202305/250ffde2503743b69ae700e7d0610181_middle.jpg?rltime",
+      "fans": 123773
     },
     {
       "room_id": "8141359",
@@ -1577,14 +1577,6 @@
       "fans": 66539
     },
     {
-      "room_id": "9119044",
-      "cate_id": 1008,
-      "nickname": "i妍霏",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202104/c91125e423de4993996dc19ab9ac0177_middle.jpg?rltime",
-      "fans": 65606
-    },
-    {
       "room_id": "6694867",
       "cate_id": 1008,
       "nickname": "瑤瑶酱OvO",
@@ -1719,6 +1711,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202206/928594aebf3840298a137704a990b55d_middle.jpg?rltime",
       "fans": 61808
+    },
+    {
+      "room_id": "9119044",
+      "cate_id": 1008,
+      "nickname": "i妍霏",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202104/c91125e423de4993996dc19ab9ac0177_middle.jpg?rltime",
+      "fans": 61164
     },
     {
       "room_id": "9266234",
@@ -1891,7 +1891,7 @@
     {
       "room_id": "6079602",
       "cate_id": 1008,
-      "nickname": "可崽来了",
+      "nickname": "世界坏可崽好",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/06a1a08b24ac4700bc2d4e70bec4f973_middle.jpg?rltime",
       "fans": 50095
