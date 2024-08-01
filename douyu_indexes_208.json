@@ -617,14 +617,6 @@
       "fans": 102498
     },
     {
-      "room_id": "6079455",
-      "cate_id": 208,
-      "nickname": "蒲蚂蚱",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/2f9c48976bfa44d094b899a088946cd9_middle.jpg?rltime",
-      "fans": 97878
-    },
-    {
       "room_id": "6140589",
       "cate_id": 208,
       "nickname": "鱼小丸梓",
@@ -647,6 +639,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_middle.jpg?rltime",
       "fans": 93853
+    },
+    {
+      "room_id": "6079455",
+      "cate_id": 208,
+      "nickname": "蒲蚂蚱",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/2f9c48976bfa44d094b899a088946cd9_middle.jpg?rltime",
+      "fans": 89747
     },
     {
       "room_id": "428402",
