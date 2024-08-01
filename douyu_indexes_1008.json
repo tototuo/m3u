@@ -85,7 +85,7 @@
       "cate_id": 1008,
       "nickname": "百变姑姑肖淑洁",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/412aa1bed32743c4b174f8d25321854c_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202408/77a651e9448345b18927515e1625dc34_middle.jpg?rltime",
       "fans": 877052
     },
     {
@@ -1009,14 +1009,6 @@
       "fans": 122274
     },
     {
-      "room_id": "5952304",
-      "cate_id": 1008,
-      "nickname": "超可爱的小艾米Amy",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/9c45b2fbd49c4c5fb170b4adcf9f62a9_middle.jpg?rltime",
-      "fans": 122033
-    },
-    {
       "room_id": "9123255",
       "cate_id": 1008,
       "nickname": "小娜子丶丶",
@@ -1033,20 +1025,20 @@
       "fans": 120965
     },
     {
-      "room_id": "2165978",
-      "cate_id": 1008,
-      "nickname": "刘喵喵喵丶",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/8cda902dc4ac4e03babbf8101da701ac_middle.jpg?rltime",
-      "fans": 115442
-    },
-    {
       "room_id": "9700757",
       "cate_id": 1008,
       "nickname": "周一涵i",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/b36a57a5ec14426fba244e17bf869628_middle.jpg?rltime",
       "fans": 113946
+    },
+    {
+      "room_id": "5952304",
+      "cate_id": 1008,
+      "nickname": "超可爱的小艾米Amy",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/9c45b2fbd49c4c5fb170b4adcf9f62a9_middle.jpg?rltime",
+      "fans": 113000
     },
     {
       "room_id": "7034996",
@@ -1103,6 +1095,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/bbbffc3d256544e0bc507144fc784cb0_middle.jpg?rltime",
       "fans": 108616
+    },
+    {
+      "room_id": "2165978",
+      "cate_id": 1008,
+      "nickname": "刘喵喵喵丶",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/8cda902dc4ac4e03babbf8101da701ac_middle.jpg?rltime",
+      "fans": 108568
     },
     {
       "room_id": "717613",
