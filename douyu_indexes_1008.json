@@ -1353,6 +1353,14 @@
       "fans": 81796
     },
     {
+      "room_id": "7907534",
+      "cate_id": 1008,
+      "nickname": "林叁叁x",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c1003e5358bd449ea357c3b2fefce7a4_middle.jpg?rltime",
+      "fans": 81659
+    },
+    {
       "room_id": "10267639",
       "cate_id": 1008,
       "nickname": "林书贤",
@@ -1415,14 +1423,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/8ac96f86a0684f9384fc5057749fd910_middle.jpg?rltime",
       "fans": 78258
-    },
-    {
-      "room_id": "7907534",
-      "cate_id": 1008,
-      "nickname": "林叁叁x",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/c1003e5358bd449ea357c3b2fefce7a4_middle.jpg?rltime",
-      "fans": 77487
     },
     {
       "room_id": "4386404",
@@ -1761,6 +1761,14 @@
       "fans": 55829
     },
     {
+      "room_id": "8255982",
+      "cate_id": 1008,
+      "nickname": "冲浪选手恩娜",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/3d8ea3f6d9614985a2631933e9512830_middle.jpg?rltime",
+      "fans": 54407
+    },
+    {
       "room_id": "9287115",
       "cate_id": 1008,
       "nickname": "望舒Iris",
@@ -1775,6 +1783,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202211/badfab6af2954a3394ae5af9cfae1dd8_middle.jpg?rltime",
       "fans": 53186
+    },
+    {
+      "room_id": "6079602",
+      "cate_id": 1008,
+      "nickname": "可崽来了",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/06a1a08b24ac4700bc2d4e70bec4f973_middle.jpg?rltime",
+      "fans": 52687
     },
     {
       "room_id": "5250584",
@@ -1815,14 +1831,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202112/a52b3afdc9d7418da2a65393e1c4a62b_middle.jpg?rltime",
       "fans": 51678
-    },
-    {
-      "room_id": "8255982",
-      "cate_id": 1008,
-      "nickname": "冲浪选手恩娜",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/3d8ea3f6d9614985a2631933e9512830_middle.jpg?rltime",
-      "fans": 51574
     },
     {
       "room_id": "6851797",
@@ -1887,14 +1895,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/b6ba0bb97e554cf6a99c4bd4a47fbfe3_middle.jpg?rltime",
       "fans": 50106
-    },
-    {
-      "room_id": "6079602",
-      "cate_id": 1008,
-      "nickname": "可崽来了",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/06a1a08b24ac4700bc2d4e70bec4f973_middle.jpg?rltime",
-      "fans": 50095
     },
     {
       "room_id": "6511427",
