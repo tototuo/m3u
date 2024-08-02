@@ -1137,14 +1137,6 @@
       "fans": 105072
     },
     {
-      "room_id": "9483542",
-      "cate_id": 1008,
-      "nickname": "小梦仙mm",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/8910796181ff4f3fac858bf0b931a634_middle.jpg?rltime",
-      "fans": 104940
-    },
-    {
       "room_id": "7446649",
       "cate_id": 1008,
       "nickname": "蜜桃miki",
@@ -1183,6 +1175,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/7e9f56a1a7724118bc475ac2c151fd6f_middle.jpg?rltime",
       "fans": 98922
+    },
+    {
+      "room_id": "9483542",
+      "cate_id": 1008,
+      "nickname": "小梦仙mm",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/8910796181ff4f3fac858bf0b931a634_middle.jpg?rltime",
+      "fans": 97361
     },
     {
       "room_id": "9207931",
