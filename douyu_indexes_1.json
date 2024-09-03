@@ -345,6 +345,14 @@
       "fans": 1245491
     },
     {
+      "room_id": "1300804",
+      "cate_id": 1,
+      "nickname": "卷子丶",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/666e2f13bb564bb0ae9279d7eec2ca59_middle.jpg?rltime",
+      "fans": 1213295
+    },
+    {
       "room_id": "338281",
       "cate_id": 1,
       "nickname": "疯狗炼金",
@@ -2657,6 +2665,14 @@
       "fans": 58325
     },
     {
+      "room_id": "7388349",
+      "cate_id": 1,
+      "nickname": "阿陈ctw",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/a46594424e714cdeacbdb73b47314034_middle.jpg?rltime",
+      "fans": 58034
+    },
+    {
       "room_id": "148487",
       "cate_id": 1,
       "nickname": "馨儿MIRANDA",
@@ -2775,14 +2791,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/cfe4874059cf4f1c90b0d9f88e8a24bf_middle.jpg?rltime",
       "fans": 53677
-    },
-    {
-      "room_id": "7388349",
-      "cate_id": 1,
-      "nickname": "阿陈ctw",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201909/a46594424e714cdeacbdb73b47314034_middle.jpg?rltime",
-      "fans": 53298
     },
     {
       "room_id": "5250584",
