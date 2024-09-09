@@ -1801,6 +1801,14 @@
       "fans": 118680
     },
     {
+      "room_id": "7314971",
+      "cate_id": 1,
+      "nickname": "骇客H4cker",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/9f4e23ee86db4dffa4684806fa0aed86_middle.jpg?rltime",
+      "fans": 117144
+    },
+    {
       "room_id": "5842461",
       "cate_id": 1,
       "nickname": "sysyu",
@@ -1839,14 +1847,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/54b7a5f2d63d4075a64faa8f43080d45_middle.jpg?rltime",
       "fans": 111612
-    },
-    {
-      "room_id": "7314971",
-      "cate_id": 1,
-      "nickname": "骇客H4cker",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/9f4e23ee86db4dffa4684806fa0aed86_middle.jpg?rltime",
-      "fans": 111543
     },
     {
       "room_id": "623616",
