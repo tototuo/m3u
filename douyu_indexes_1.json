@@ -593,6 +593,14 @@
       "fans": 687362
     },
     {
+      "room_id": "6556593",
+      "cate_id": 1,
+      "nickname": "熊猫大G",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/12d9e576c71248b4ae4b094906c82a9b_middle.jpg?rltime",
+      "fans": 671472
+    },
+    {
       "room_id": "916749",
       "cate_id": 1,
       "nickname": "石大壮zz",
@@ -607,14 +615,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/93a4a19e57c541b1a325dc687bfeba38_middle.jpg?rltime",
       "fans": 641904
-    },
-    {
-      "room_id": "6556593",
-      "cate_id": 1,
-      "nickname": "熊猫大G",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202203/12d9e576c71248b4ae4b094906c82a9b_middle.jpg?rltime",
-      "fans": 639471
     },
     {
       "room_id": "593392",
