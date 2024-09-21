@@ -705,6 +705,14 @@
       "fans": 502065
     },
     {
+      "room_id": "3190510",
+      "cate_id": 1,
+      "nickname": "肉肉怎么这么菜",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201911/6d2760e2cb5c4e819a0921adee41b3bd_middle.jpg?rltime",
+      "fans": 499511
+    },
+    {
       "room_id": "600290",
       "cate_id": 1,
       "nickname": "浪灯赵信",
@@ -1761,6 +1769,14 @@
       "fans": 125247
     },
     {
+      "room_id": "7314971",
+      "cate_id": 1,
+      "nickname": "骇客H4cker",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/9f4e23ee86db4dffa4684806fa0aed86_middle.jpg?rltime",
+      "fans": 123317
+    },
+    {
       "room_id": "112047",
       "cate_id": 1,
       "nickname": "小狮子你真棒",
@@ -1799,14 +1815,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/a9e0686b5bf84d979ddf0e57a8af08d0_middle.jpg?rltime",
       "fans": 118680
-    },
-    {
-      "room_id": "7314971",
-      "cate_id": 1,
-      "nickname": "骇客H4cker",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/9f4e23ee86db4dffa4684806fa0aed86_middle.jpg?rltime",
-      "fans": 117144
     },
     {
       "room_id": "5842461",
