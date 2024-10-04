@@ -465,6 +465,14 @@
       "fans": 1032880
     },
     {
+      "room_id": "6775193",
+      "cate_id": 1,
+      "nickname": "617丶新一",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/19be61317b0c483fb1c090ab3a34340e_middle.jpg?rltime",
+      "fans": 977242
+    },
+    {
       "room_id": "7084089",
       "cate_id": 1,
       "nickname": "童扬korol丶",
@@ -479,14 +487,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201705/18/12/6044412c5ce69dc7476584724e150f26_middle.jpg?rltime",
       "fans": 934186
-    },
-    {
-      "room_id": "6775193",
-      "cate_id": 1,
-      "nickname": "617丶新一",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/19be61317b0c483fb1c090ab3a34340e_middle.jpg?rltime",
-      "fans": 930461
     },
     {
       "room_id": "35954",
@@ -1479,6 +1479,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/423345b2f64746b2b30a56f18e4bcf61_middle.jpg?rltime",
       "fans": 183830
+    },
+    {
+      "room_id": "9435222",
+      "cate_id": 1,
+      "nickname": "小栗吱",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202408/d2ba08cc231e4361b1f06e1b1e1424a0_middle.jpg?rltime",
+      "fans": 182936
     },
     {
       "room_id": "117707",
