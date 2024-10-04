@@ -1345,14 +1345,6 @@
       "fans": 86529
     },
     {
-      "room_id": "10476846",
-      "cate_id": 1008,
-      "nickname": "一只小猫呀m",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/37722df2bcf24c208cb302cfd2a44bff_middle.jpg?rltime",
-      "fans": 86529
-    },
-    {
       "room_id": "8868514",
       "cate_id": 1008,
       "nickname": "周书真",
@@ -1723,7 +1715,7 @@
     {
       "room_id": "7208773",
       "cate_id": 1008,
-      "nickname": "小童酱酱",
+      "nickname": "冲浪选手童酱",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/7e23a8a16fdf46fa84e638c60596e75a_middle.jpg?rltime",
       "fans": 64200
