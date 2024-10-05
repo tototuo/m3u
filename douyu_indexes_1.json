@@ -1409,6 +1409,14 @@
       "fans": 197944
     },
     {
+      "room_id": "8682569",
+      "cate_id": 1,
+      "nickname": "冷少icon",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
+      "fans": 197613
+    },
+    {
       "room_id": "172675",
       "cate_id": 1,
       "nickname": "皮皮卡特儿",
@@ -1447,14 +1455,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/2e0d399deee9482885ac6f202b884343_middle.jpg?rltime",
       "fans": 188663
-    },
-    {
-      "room_id": "8682569",
-      "cate_id": 1,
-      "nickname": "冷少icon",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
-      "fans": 187935
     },
     {
       "room_id": "252171",
