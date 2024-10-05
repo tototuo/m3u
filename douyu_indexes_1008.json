@@ -1305,6 +1305,14 @@
       "fans": 91080
     },
     {
+      "room_id": "10476846",
+      "cate_id": 1008,
+      "nickname": "一只小猫呀m",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/37722df2bcf24c208cb302cfd2a44bff_middle.jpg?rltime",
+      "fans": 90870
+    },
+    {
       "room_id": "6507743",
       "cate_id": 1008,
       "nickname": "仟素素",
@@ -1335,14 +1343,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/2f9c48976bfa44d094b899a088946cd9_middle.jpg?rltime",
       "fans": 86993
-    },
-    {
-      "room_id": "10476846",
-      "cate_id": 1008,
-      "nickname": "一只小猫呀m",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/37722df2bcf24c208cb302cfd2a44bff_middle.jpg?rltime",
-      "fans": 86529
     },
     {
       "room_id": "8868514",
@@ -1569,6 +1569,14 @@
       "fans": 70187
     },
     {
+      "room_id": "5516960",
+      "cate_id": 1008,
+      "nickname": "橘猫酱R",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/93e57d4bcd4e4f6ea16fd72af709ecee_middle.jpg?rltime",
+      "fans": 69810
+    },
+    {
       "room_id": "5964044",
       "cate_id": 1008,
       "nickname": "Q覃小七",
@@ -1647,14 +1655,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/b54e8dcf92194265a9a55d95f0bfbfe8_middle.jpg?rltime",
       "fans": 66539
-    },
-    {
-      "room_id": "5516960",
-      "cate_id": 1008,
-      "nickname": "橘猫酱R",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/93e57d4bcd4e4f6ea16fd72af709ecee_middle.jpg?rltime",
-      "fans": 66476
     },
     {
       "room_id": "6694867",

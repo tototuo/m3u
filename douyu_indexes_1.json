@@ -2801,6 +2801,14 @@
       "fans": 58325
     },
     {
+      "room_id": "11185587",
+      "cate_id": 1,
+      "nickname": "可达鸽psydove",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/da5ced39a1f847bd91282bffc9d1d33e_middle.jpg?rltime",
+      "fans": 58250
+    },
+    {
       "room_id": "7388349",
       "cate_id": 1,
       "nickname": "阿陈ctw",
@@ -2879,14 +2887,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202210/48b44c646299461eb5326ef70d3b2c93_middle.jpg?rltime",
       "fans": 55561
-    },
-    {
-      "room_id": "11185587",
-      "cate_id": 1,
-      "nickname": "可达鸽psydove",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202408/83f168e269394a0db8c9a4a7bc84c1fa_middle.jpg?rltime",
-      "fans": 55395
     },
     {
       "room_id": "1960469",
