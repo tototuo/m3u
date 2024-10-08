@@ -193,6 +193,14 @@
       "fans": 3153714
     },
     {
+      "room_id": "12268658",
+      "cate_id": 1,
+      "nickname": "微竞芜湖神",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/4c69ecbd23204e6f86f4081ed7f0fbbd_middle.jpg?rltime",
+      "fans": 3105235
+    },
+    {
       "room_id": "12268763",
       "cate_id": 1,
       "nickname": "皇族星痕OB",
@@ -2943,6 +2951,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/297f5af1a9ad48b6bf365e060c9df555_middle.jpg?rltime",
       "fans": 56086
+    },
+    {
+      "room_id": "3379829",
+      "cate_id": 1,
+      "nickname": "Immimikyu",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/af25fb0502ca46cd9c54fac0a621c8f0_middle.jpg?rltime",
+      "fans": 55985
     },
     {
       "room_id": "7918091",
