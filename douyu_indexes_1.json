@@ -2273,6 +2273,14 @@
       "fans": 89512
     },
     {
+      "room_id": "9616398",
+      "cate_id": 1,
+      "nickname": "你的琳皇无限猖狂",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/24079b0345124fa8bed9956a61b70a10_middle.jpg?rltime",
+      "fans": 88442
+    },
+    {
       "room_id": "103493",
       "cate_id": 1,
       "nickname": "第一光头天命瑞兹",
@@ -2383,14 +2391,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202302/39c320c2d8854f5b9cb7eb133a0a89e8_middle.jpg?rltime",
       "fans": 82907
-    },
-    {
-      "room_id": "9616398",
-      "cate_id": 1,
-      "nickname": "你的琳皇无限猖狂",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202306/24079b0345124fa8bed9956a61b70a10_middle.jpg?rltime",
-      "fans": 82711
     },
     {
       "room_id": "98406",
