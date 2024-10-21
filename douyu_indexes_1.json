@@ -745,6 +745,14 @@
       "fans": 628350
     },
     {
+      "room_id": "4520630",
+      "cate_id": 1,
+      "nickname": "A妹A妹",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_middle.jpg?rltime",
+      "fans": 622111
+    },
+    {
       "room_id": "1667826",
       "cate_id": 1,
       "nickname": "一口三明治3Mz",
@@ -1351,6 +1359,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202109/7b8e64e8640d4961a2a36b542e9ec189_middle.jpg?rltime",
       "fans": 236823
+    },
+    {
+      "room_id": "34972",
+      "cate_id": 1,
+      "nickname": "精神永富",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/fd50cb3ebd18475daa6c669a99c9ee58_middle.jpg?rltime",
+      "fans": 236660
     },
     {
       "room_id": "8995188",
