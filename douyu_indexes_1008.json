@@ -93,7 +93,7 @@
       "cate_id": 1008,
       "nickname": "百变姑姑肖淑洁",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/7d6d777ddbaa4e23a96f66a035c0a816_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/9ba9d47472e844848d824434cf958e88_middle.jpg?rltime",
       "fans": 877052
     },
     {
@@ -1553,6 +1553,14 @@
       "fans": 73886
     },
     {
+      "room_id": "5516960",
+      "cate_id": 1008,
+      "nickname": "橘猫酱R",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/93e57d4bcd4e4f6ea16fd72af709ecee_middle.jpg?rltime",
+      "fans": 73462
+    },
+    {
       "room_id": "2622942",
       "cate_id": 1008,
       "nickname": "蘭七o",
@@ -1591,14 +1599,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/e193ee5abdb34feb960222e6a0a36394_middle.jpg?rltime",
       "fans": 70187
-    },
-    {
-      "room_id": "5516960",
-      "cate_id": 1008,
-      "nickname": "橘猫酱R",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/93e57d4bcd4e4f6ea16fd72af709ecee_middle.jpg?rltime",
-      "fans": 69810
     },
     {
       "room_id": "5964044",
