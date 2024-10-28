@@ -5,7 +5,7 @@
       "cate_id": 208,
       "nickname": "进击D神乐",
       "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/c2c0c5cce16f433fae0e808229b26be1_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/4976dcbe805342b0864d140f3613d385_middle.jpg?rltime",
       "fans": 4095403
     },
     {
@@ -13,7 +13,7 @@
       "cate_id": 208,
       "nickname": "进击的神乐",
       "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/305bb5d9d05c49f4bc12cf07841c080c_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/086e6191f37f4bc4ab41b83b1918ff0a_middle.jpg?rltime",
       "fans": 3007098
     },
     {
@@ -63,14 +63,6 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_middle.jpg?rltime",
       "fans": 1494005
-    },
-    {
-      "room_id": "96577",
-      "cate_id": 208,
-      "nickname": "UU娇哒哒呀",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_middle.jpg?rltime",
-      "fans": 1308546
     },
     {
       "room_id": "96577",
@@ -577,14 +569,6 @@
       "fans": 121903
     },
     {
-      "room_id": "74374",
-      "cate_id": 208,
-      "nickname": "Poison丶冰冰",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202408/99a191d4381043a5bd99e78767e09713_middle.jpg?rltime",
-      "fans": 121903
-    },
-    {
       "room_id": "5508997",
       "cate_id": 208,
       "nickname": "鱼子酱",
@@ -961,19 +945,19 @@
       "fans": 50002
     },
     {
-      "room_id": "7623292",
-      "cate_id": 208,
-      "nickname": "鯋鱼辰辰",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_middle.jpg?rltime",
-      "fans": 50001
-    },
-    {
       "room_id": "5692901",
       "cate_id": 208,
       "nickname": "壹丨哥",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202009/2dfc46d4a3774738b730e754b5e6dac8_middle.jpg?rltime",
+      "fans": 50001
+    },
+    {
+      "room_id": "7623292",
+      "cate_id": 208,
+      "nickname": "鯋鱼辰辰",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_middle.jpg?rltime",
       "fans": 50001
     }
   ]
