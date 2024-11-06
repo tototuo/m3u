@@ -1241,6 +1241,14 @@
       "fans": 98922
     },
     {
+      "room_id": "10060909",
+      "cate_id": 1008,
+      "nickname": "小冉冉y",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
+      "fans": 98863
+    },
+    {
       "room_id": "9483542",
       "cate_id": 1008,
       "nickname": "小梦仙mm",
@@ -1271,14 +1279,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/12ef1d426b474a9194ea2d8f8d870fa4_middle.jpg?rltime",
       "fans": 94222
-    },
-    {
-      "room_id": "10060909",
-      "cate_id": 1008,
-      "nickname": "小冉冉y",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
-      "fans": 94026
     },
     {
       "room_id": "9635701",
@@ -1389,7 +1389,7 @@
       "cate_id": 1008,
       "nickname": "李若桐o",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/cd553a110ef54700ba879a41694e17fe_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/7f445c1da95641bd854987e40910100a_middle.jpg?rltime",
       "fans": 84981
     },
     {
