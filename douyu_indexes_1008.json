@@ -1265,6 +1265,14 @@
       "fans": 96225
     },
     {
+      "room_id": "9212066",
+      "cate_id": 1008,
+      "nickname": "宅大剩",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/53e9a5f8bd82414aa6440d2487c03202_middle.jpg?rltime",
+      "fans": 95698
+    },
+    {
       "room_id": "9119329",
       "cate_id": 1008,
       "nickname": "欧尼酱七七",
@@ -1303,14 +1311,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/d3f9195960dc4300b9ca2cb62b3f1aef_middle.jpg?rltime",
       "fans": 92945
-    },
-    {
-      "room_id": "9212066",
-      "cate_id": 1008,
-      "nickname": "宅大剩",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/53e9a5f8bd82414aa6440d2487c03202_middle.jpg?rltime",
-      "fans": 91135
     },
     {
       "room_id": "464105",
