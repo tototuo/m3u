@@ -1921,6 +1921,14 @@
       "fans": 143741
     },
     {
+      "room_id": "8256300",
+      "cate_id": 1,
+      "nickname": "子敬ad",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/b4b159552f5e43ffa1bf5324533c2921_middle.jpg?rltime",
+      "fans": 143079
+    },
+    {
       "room_id": "19389",
       "cate_id": 1,
       "nickname": "预言家lol",
@@ -1959,14 +1967,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202104/509f53ffb2e8416aa128a37dff71f86e_middle.jpg?rltime",
       "fans": 136792
-    },
-    {
-      "room_id": "8256300",
-      "cate_id": 1,
-      "nickname": "子敬ad",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/b4b159552f5e43ffa1bf5324533c2921_middle.jpg?rltime",
-      "fans": 135903
     },
     {
       "room_id": "3874929",
