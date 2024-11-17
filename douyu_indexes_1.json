@@ -35,7 +35,7 @@
     {
       "room_id": "12268311",
       "cate_id": 1,
-      "nickname": "4AMGodv8311",
+      "nickname": "4AMGodv3797",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/baf5405070034bc58bd5694858012a3b_middle.jpg?rltime",
       "fans": 12565226
@@ -1561,6 +1561,14 @@
       "fans": 222242
     },
     {
+      "room_id": "8682569",
+      "cate_id": 1,
+      "nickname": "冷少icon",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
+      "fans": 221884
+    },
+    {
       "room_id": "9441161",
       "cate_id": 1,
       "nickname": "竹god",
@@ -1615,14 +1623,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202106/5d320924bf324edbaf1a7c8dbec95ebd_middle.jpg?rltime",
       "fans": 211176
-    },
-    {
-      "room_id": "8682569",
-      "cate_id": 1,
-      "nickname": "冷少icon",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
-      "fans": 207950
     },
     {
       "room_id": "1065655",
@@ -3289,6 +3289,14 @@
       "fans": 53677
     },
     {
+      "room_id": "11936783",
+      "cate_id": 1,
+      "nickname": "黄浩Aliez",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/ab781c44c643449fa95c1d00bd754777_middle.jpg?rltime",
+      "fans": 52958
+    },
+    {
       "room_id": "5250584",
       "cate_id": 1,
       "nickname": "无敌小可爱咕咕",
@@ -3391,14 +3399,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/8da5fc81296c4200ab56bd1a73d8692c_middle.jpg?rltime",
       "fans": 50067
-    },
-    {
-      "room_id": "11936783",
-      "cate_id": 1,
-      "nickname": "黄浩Aliez",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/ab781c44c643449fa95c1d00bd754777_middle.jpg?rltime",
-      "fans": 50051
     },
     {
       "room_id": "10544334",
