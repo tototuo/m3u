@@ -395,7 +395,7 @@
     {
       "room_id": "17349",
       "cate_id": 1,
-      "nickname": "冰凡丶bbg",
+      "nickname": "冰凡丶17349",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/04e22bf6504d426183f4e8619112b10c_middle.jpg?rltime",
       "fans": 1808549
@@ -1623,6 +1623,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202106/5d320924bf324edbaf1a7c8dbec95ebd_middle.jpg?rltime",
       "fans": 211176
+    },
+    {
+      "room_id": "5498522",
+      "cate_id": 1,
+      "nickname": "17小鬼丷",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202407/c5b5bc767d39409a8d183b0dc6cdba8a_middle.jpg?rltime",
+      "fans": 207551
     },
     {
       "room_id": "1065655",
