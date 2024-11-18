@@ -1917,7 +1917,7 @@
       "cate_id": 1008,
       "nickname": "Lin菠萝",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/8e21cc4c46144fb8bef05aba91ce0293_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/b2ac879c91284036989065a778a01837_middle.jpg?rltime",
       "fans": 52693
     },
     {
@@ -2039,6 +2039,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/5cd15f743e834ee581f463c754c2b99f_middle.jpg?rltime",
       "fans": 50031
+    },
+    {
+      "room_id": "7609681",
+      "cate_id": 1008,
+      "nickname": "小安月丶",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/6ad1692e7901483986748a30ab42004e_middle.jpg?rltime",
+      "fans": 50025
     }
   ]
 }
