@@ -371,7 +371,7 @@
     {
       "room_id": "31107",
       "cate_id": 1,
-      "nickname": "胖胖灬",
+      "nickname": "胖胖OB解说",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/000/16/67/71_avatar_middle.jpg?rltime",
       "fans": 1894519
@@ -575,6 +575,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202108/3fcf7f9bc5a942f0ab7735a17322688e_middle.jpg?rltime",
       "fans": 1154084
+    },
+    {
+      "room_id": "6558897",
+      "cate_id": 1,
+      "nickname": "果小果是个弟弟",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/c333fd4724f04ba38b4c410f2239f9d7_middle.jpg?rltime",
+      "fans": 1153480
     },
     {
       "room_id": "718133",
@@ -887,6 +895,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/76436a777d6845bf8fa12945131a8d98_middle.jpg?rltime",
       "fans": 578484
+    },
+    {
+      "room_id": "6436883",
+      "cate_id": 1,
+      "nickname": "4AMCrazy112代",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/1eaff10449944b69910947ac41736ea1_middle.jpg?rltime",
+      "fans": 572869
     },
     {
       "room_id": "729149",
@@ -1721,14 +1737,6 @@
       "fans": 189800
     },
     {
-      "room_id": "6436883",
-      "cate_id": 1,
-      "nickname": "4AMCrazy112代",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202003/281372915cb34c829a0f24bd8696267b_middle.jpg?rltime",
-      "fans": 189053
-    },
-    {
       "room_id": "252171",
       "cate_id": 1,
       "nickname": "小翁亚索",
@@ -2277,7 +2285,7 @@
       "cate_id": 1,
       "nickname": "张无忌L1ugOvO",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201904/49da7d9639b5475b980112b96639df28_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/934fc79fc0ac422dbd02f4fb6dfbd2e9_middle.jpg?rltime",
       "fans": 105540
     },
     {
