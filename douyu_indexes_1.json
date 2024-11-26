@@ -21,8 +21,16 @@
       "cate_id": 1,
       "nickname": "英雄联盟赛事",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/7faec742751b4cedbaf9f3cf0697e325_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/7cfc7477768048c6bdc491721d7c3179_middle.jpg?rltime",
       "fans": 18376097
+    },
+    {
+      "room_id": "12268044",
+      "cate_id": 1,
+      "nickname": "Uzi8044",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/aa2f0f0ad69e4f9ea7623538ff1b23ca_middle.jpg?rltime",
+      "fans": 15314191
     },
     {
       "room_id": "312212",
@@ -95,6 +103,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/ea8c771105ad4d2986409efc2039767f_middle.jpg?rltime",
       "fans": 7356349
+    },
+    {
+      "room_id": "12268497",
+      "cate_id": 1,
+      "nickname": "TheShy8497",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/907c90d7c35f40318a8f1c2146ca086b_middle.jpg?rltime",
+      "fans": 7216752
     },
     {
       "room_id": "138243",
