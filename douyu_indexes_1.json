@@ -337,6 +337,14 @@
       "fans": 2490056
     },
     {
+      "room_id": "12269464",
+      "cate_id": 1,
+      "nickname": "叫我久哥哥兄弟会",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/3f7e740dfaa84c3aafa04c998983c786_middle.jpg?rltime",
+      "fans": 2401455
+    },
+    {
       "room_id": "486808",
       "cate_id": 1,
       "nickname": "一笑zy",
@@ -3225,6 +3233,14 @@
       "fans": 58597
     },
     {
+      "room_id": "11936783",
+      "cate_id": 1,
+      "nickname": "黄浩Aliez",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/ab781c44c643449fa95c1d00bd754777_middle.jpg?rltime",
+      "fans": 58430
+    },
+    {
       "room_id": "1070871",
       "cate_id": 1,
       "nickname": "一个禾包蛋",
@@ -3303,14 +3319,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202404/af25fb0502ca46cd9c54fac0a621c8f0_middle.jpg?rltime",
       "fans": 55985
-    },
-    {
-      "room_id": "11936783",
-      "cate_id": 1,
-      "nickname": "黄浩Aliez",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/ab781c44c643449fa95c1d00bd754777_middle.jpg?rltime",
-      "fans": 55644
     },
     {
       "room_id": "7918091",
