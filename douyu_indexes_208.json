@@ -961,19 +961,19 @@
       "fans": 50002
     },
     {
-      "room_id": "5692901",
-      "cate_id": 208,
-      "nickname": "壹丨哥",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202009/2dfc46d4a3774738b730e754b5e6dac8_middle.jpg?rltime",
-      "fans": 50001
-    },
-    {
       "room_id": "7623292",
       "cate_id": 208,
       "nickname": "鯋鱼辰辰",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_middle.jpg?rltime",
+      "fans": 50001
+    },
+    {
+      "room_id": "5692901",
+      "cate_id": 208,
+      "nickname": "壹丨哥",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202009/2dfc46d4a3774738b730e754b5e6dac8_middle.jpg?rltime",
       "fans": 50001
     }
   ]
