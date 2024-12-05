@@ -193,6 +193,14 @@
       "fans": 548301
     },
     {
+      "room_id": "323876",
+      "cate_id": 208,
+      "nickname": "Rainsun宇",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/8eb197d162624fcc90c4d26a49308c79_middle.jpg?rltime",
+      "fans": 548301
+    },
+    {
       "room_id": "260322",
       "cate_id": 208,
       "nickname": "懒猫是只喵",
@@ -495,6 +503,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202101/cdb4acce8f9e41c7a0c68df927ec9cc2_middle.jpg?rltime",
       "fans": 170502
+    },
+    {
+      "room_id": "6557037",
+      "cate_id": 208,
+      "nickname": "进击的神樂",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/1406f92f9c5042cd8506679f84257198_middle.jpg?rltime",
+      "fans": 154732
     },
     {
       "room_id": "6557037",
