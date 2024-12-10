@@ -3105,6 +3105,14 @@
       "fans": 64768
     },
     {
+      "room_id": "11185587",
+      "cate_id": 1,
+      "nickname": "可达鸽psydove",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/0124822a9eb84977a182b99073332f49_middle.jpg?rltime",
+      "fans": 64303
+    },
+    {
       "room_id": "2465555",
       "cate_id": 1,
       "nickname": "13shao丶",
@@ -3199,14 +3207,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202109/f437c9f0832c42a8b30710999406c35c_middle.jpg?rltime",
       "fans": 61691
-    },
-    {
-      "room_id": "11185587",
-      "cate_id": 1,
-      "nickname": "可达鸽psydove",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/0124822a9eb84977a182b99073332f49_middle.jpg?rltime",
-      "fans": 61167
     },
     {
       "room_id": "96898",
@@ -3441,6 +3441,14 @@
       "fans": 53677
     },
     {
+      "room_id": "7837152",
+      "cate_id": 1,
+      "nickname": "娆春乔",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/11313648381a4b60994d8b7365998170_middle.jpg?rltime",
+      "fans": 52989
+    },
+    {
       "room_id": "5250584",
       "cate_id": 1,
       "nickname": "无敌小可爱咕咕",
@@ -3527,14 +3535,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/77d245c67f1f43ebbd445481ea969e64_middle.jpg?rltime",
       "fans": 50256
-    },
-    {
-      "room_id": "7837152",
-      "cate_id": 1,
-      "nickname": "娆春乔",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202410/11313648381a4b60994d8b7365998170_middle.jpg?rltime",
-      "fans": 50202
     },
     {
       "room_id": "642425",
