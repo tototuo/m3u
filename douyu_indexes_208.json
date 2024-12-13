@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "room_id": "138243",
+      "cate_id": 208,
+      "nickname": "洞主丨歌神洞庭湖",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/2e2df7bcac9e43a89f58c692e1e99734_middle.jpg?rltime",
+      "fans": 7018751
+    },
+    {
       "room_id": "122402",
       "cate_id": 208,
       "nickname": "进击D神乐",
