@@ -1673,6 +1673,14 @@
       "fans": 236660
     },
     {
+      "room_id": "8682569",
+      "cate_id": 1,
+      "nickname": "冷少icon",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
+      "fans": 233000
+    },
+    {
       "room_id": "8995188",
       "cate_id": 1,
       "nickname": "不小葵",
@@ -1719,14 +1727,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201912/34f320e566434a2bb7a2cded60b37fa1_middle.jpg?rltime",
       "fans": 222242
-    },
-    {
-      "room_id": "8682569",
-      "cate_id": 1,
-      "nickname": "冷少icon",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
-      "fans": 221884
     },
     {
       "room_id": "9441161",
@@ -3557,7 +3557,7 @@
       "cate_id": 1,
       "nickname": "沁潼baby",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202411/13f07f0c7a6747a9be05b0778cd0b42f_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202412/c8c4df204cec43f4a6adb6b34a3c50d5_middle.jpg?rltime",
       "fans": 50535
     },
     {
