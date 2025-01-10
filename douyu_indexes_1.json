@@ -1077,7 +1077,7 @@
       "cate_id": 1,
       "nickname": "雨初歇雯神",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/85d13f0e42f6487b8342ff6151943930_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/475166183993435591102d8a0a422526_middle.jpg?rltime",
       "fans": 546287
     },
     {
@@ -3569,6 +3569,14 @@
       "fans": 52654
     },
     {
+      "room_id": "10544334",
+      "cate_id": 1,
+      "nickname": "冰块哥ekko",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/228adf632bea4576850c16a735a7198a_middle.jpg?rltime",
+      "fans": 52550
+    },
+    {
       "room_id": "211552",
       "cate_id": 1,
       "nickname": "一只小梦露",
@@ -3655,14 +3663,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/8da5fc81296c4200ab56bd1a73d8692c_middle.jpg?rltime",
       "fans": 50067
-    },
-    {
-      "room_id": "10544334",
-      "cate_id": 1,
-      "nickname": "冰块哥ekko",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/228adf632bea4576850c16a735a7198a_middle.jpg?rltime",
-      "fans": 50001
     }
   ]
 }
