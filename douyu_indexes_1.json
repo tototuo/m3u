@@ -1085,7 +1085,7 @@
       "cate_id": 1,
       "nickname": "雨初歇雯神",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/bb3eb37f07c840039c938c980eaa8a5b_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/9ea7541fed7045cbb6505ffdfd94d232_middle.jpg?rltime",
       "fans": 546287
     },
     {
@@ -3671,6 +3671,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/8da5fc81296c4200ab56bd1a73d8692c_middle.jpg?rltime",
       "fans": 50067
+    },
+    {
+      "room_id": "1369397",
+      "cate_id": 1,
+      "nickname": "彭枪枪OVO",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/7d1c9a02ed2242a08ff8fafe117bf07b_middle.jpg?rltime",
+      "fans": 50031
     }
   ]
 }
