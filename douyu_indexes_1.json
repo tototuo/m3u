@@ -2081,6 +2081,14 @@
       "fans": 165572
     },
     {
+      "room_id": "5579534",
+      "cate_id": 1,
+      "nickname": "AMG小牧",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/1ba5f81bef74404b9b5a406f0d60f3f9_middle.jpg?rltime",
+      "fans": 165256
+    },
+    {
       "room_id": "9680646",
       "cate_id": 1,
       "nickname": "小乐碎片",
@@ -2903,6 +2911,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/0d6079864bc8415badba482cdfadd4fb_middle.jpg?rltime",
       "fans": 80341
+    },
+    {
+      "room_id": "3567521",
+      "cate_id": 1,
+      "nickname": "ICEKING",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202102/f0ab4a8e2da44b9aab9b9a51a534b681_middle.jpg?rltime",
+      "fans": 79281
     },
     {
       "room_id": "2057760",
