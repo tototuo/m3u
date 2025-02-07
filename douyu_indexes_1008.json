@@ -1593,6 +1593,14 @@
       "fans": 74502
     },
     {
+      "room_id": "10106809",
+      "cate_id": 1008,
+      "nickname": "小美佳呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202206/928594aebf3840298a137704a990b55d_middle.jpg?rltime",
+      "fans": 74390
+    },
+    {
       "room_id": "7703021",
       "cate_id": 1008,
       "nickname": "丸子君大魔王",
@@ -1663,14 +1671,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202204/f4c69a4ee0c94567850367dad5d9a05b_middle.jpg?rltime",
       "fans": 68894
-    },
-    {
-      "room_id": "10106809",
-      "cate_id": 1008,
-      "nickname": "小美佳呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202206/928594aebf3840298a137704a990b55d_middle.jpg?rltime",
-      "fans": 68289
     },
     {
       "room_id": "3518103",
