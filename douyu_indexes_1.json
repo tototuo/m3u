@@ -1745,6 +1745,14 @@
       "fans": 249051
     },
     {
+      "room_id": "8682569",
+      "cate_id": 1,
+      "nickname": "冷少icon",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
+      "fans": 244668
+    },
+    {
       "room_id": "7592343",
       "cate_id": 1,
       "nickname": "捕捉一只三吃",
@@ -1799,14 +1807,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/fd50cb3ebd18475daa6c669a99c9ee58_middle.jpg?rltime",
       "fans": 236660
-    },
-    {
-      "room_id": "8682569",
-      "cate_id": 1,
-      "nickname": "冷少icon",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/f37a3a8e8f3c4f21ae4fb23b56314850_middle.jpg?rltime",
-      "fans": 233000
     },
     {
       "room_id": "8995188",
@@ -2055,6 +2055,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/1e092f88da2b43e7b58c15503b5b5d1a_middle.jpg?rltime",
       "fans": 182542
+    },
+    {
+      "room_id": "3851631",
+      "cate_id": 1,
+      "nickname": "梦幻老张",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202001/582750fca1bd48b8a45a450240c10844_middle.jpg?rltime",
+      "fans": 179800
     },
     {
       "room_id": "236866",
