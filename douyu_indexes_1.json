@@ -1857,6 +1857,14 @@
       "fans": 222242
     },
     {
+      "room_id": "1515546",
+      "cate_id": 1,
+      "nickname": "小明剑魔",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/2e0d399deee9482885ac6f202b884343_middle.jpg?rltime",
+      "fans": 220190
+    },
+    {
       "room_id": "9441161",
       "cate_id": 1,
       "nickname": "竹god",
@@ -1927,14 +1935,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202106/5d320924bf324edbaf1a7c8dbec95ebd_middle.jpg?rltime",
       "fans": 211176
-    },
-    {
-      "room_id": "1515546",
-      "cate_id": 1,
-      "nickname": "小明剑魔",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/2e0d399deee9482885ac6f202b884343_middle.jpg?rltime",
-      "fans": 209543
     },
     {
       "room_id": "5498522",
