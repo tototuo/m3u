@@ -89,14 +89,6 @@
       "fans": 1097600
     },
     {
-      "room_id": "6515025",
-      "cate_id": 1008,
-      "nickname": "何菱",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/0b898f4fbe954f57bbfb2fb10ef58da3_middle.jpg?rltime",
-      "fans": 1097600
-    },
-    {
       "room_id": "594613",
       "cate_id": 1008,
       "nickname": "百变姑姑肖淑洁",
@@ -1449,6 +1441,14 @@
       "fans": 84523
     },
     {
+      "room_id": "10106809",
+      "cate_id": 1008,
+      "nickname": "小美佳呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
+      "fans": 84268
+    },
+    {
       "room_id": "4933024",
       "cate_id": 1008,
       "nickname": "大晶要变瘦",
@@ -1535,14 +1535,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202108/6fdfe329fcf1408588c0e15da9c3e159_middle.jpg?rltime",
       "fans": 80240
-    },
-    {
-      "room_id": "10106809",
-      "cate_id": 1008,
-      "nickname": "小美佳呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
-      "fans": 79998
     },
     {
       "room_id": "8010521",
