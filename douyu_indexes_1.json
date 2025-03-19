@@ -59,7 +59,7 @@
     {
       "room_id": "12268692",
       "cate_id": 1,
-      "nickname": "卡尔2882",
+      "nickname": "卡尔.",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/bce75c4747874c799aca55c802dd028e_middle.jpg?rltime",
       "fans": 11579792
@@ -299,7 +299,7 @@
     {
       "room_id": "12268763",
       "cate_id": 1,
-      "nickname": "皇族星痕OB",
+      "nickname": "皇族-星痕OB",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/a78e8540029a4d13a264dbcca727d6d4_middle.jpg?rltime",
       "fans": 3009551
@@ -403,7 +403,7 @@
     {
       "room_id": "12269464",
       "cate_id": 1,
-      "nickname": "叫我久哥哥兄弟会",
+      "nickname": "叫我久哥哥【兄弟会】",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/3f7e740dfaa84c3aafa04c998983c786_middle.jpg?rltime",
       "fans": 2401455
@@ -1633,6 +1633,14 @@
       "fans": 302355
     },
     {
+      "room_id": "1515546",
+      "cate_id": 1,
+      "nickname": "小明剑魔",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/2e0d399deee9482885ac6f202b884343_middle.jpg?rltime",
+      "fans": 298434
+    },
+    {
       "room_id": "823283",
       "cate_id": 1,
       "nickname": "1K黄辉冯",
@@ -1679,14 +1687,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201906/922aacef043a4634a3caac9d4d8be546_middle.jpg?rltime",
       "fans": 284403
-    },
-    {
-      "room_id": "1515546",
-      "cate_id": 1,
-      "nickname": "小明剑魔",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/2e0d399deee9482885ac6f202b884343_middle.jpg?rltime",
-      "fans": 283764
     },
     {
       "room_id": "2561707",
