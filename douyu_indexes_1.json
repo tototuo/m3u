@@ -2705,6 +2705,14 @@
       "fans": 96867
     },
     {
+      "room_id": "11936783",
+      "cate_id": 1,
+      "nickname": "黄浩Aliez",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/675340eefca9416781799188cb74deeb_middle.jpg?rltime",
+      "fans": 96834
+    },
+    {
       "room_id": "6052941",
       "cate_id": 1,
       "nickname": "天才辅助杨小杨",
@@ -2791,14 +2799,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/391fc20860cc448e8ee0c625b7022ce3_middle.jpg?rltime",
       "fans": 92521
-    },
-    {
-      "room_id": "11936783",
-      "cate_id": 1,
-      "nickname": "黄浩Aliez",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/675340eefca9416781799188cb74deeb_middle.jpg?rltime",
-      "fans": 92180
     },
     {
       "room_id": "2172353",
