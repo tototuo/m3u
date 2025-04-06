@@ -1385,14 +1385,6 @@
       "fans": 90870
     },
     {
-      "room_id": "6507743",
-      "cate_id": 1008,
-      "nickname": "仟素素",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/5eb3316693b9407b851bdf2a5f2b7374_middle.jpg?rltime",
-      "fans": 90318
-    },
-    {
       "room_id": "9243236",
       "cate_id": 1008,
       "nickname": "阿喜BABYxi",
@@ -1431,6 +1423,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202503/27073590e38243a585ff4bee4795d015_middle.jpg?rltime",
       "fans": 85887
+    },
+    {
+      "room_id": "6507743",
+      "cate_id": 1008,
+      "nickname": "仟素素",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202205/5eb3316693b9407b851bdf2a5f2b7374_middle.jpg?rltime",
+      "fans": 85772
     },
     {
       "room_id": "3990323",
