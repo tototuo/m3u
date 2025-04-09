@@ -865,14 +865,6 @@
       "fans": 69634
     },
     {
-      "room_id": "427397",
-      "cate_id": 208,
-      "nickname": "我快要上天啦",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/4dfffdd5df3846b9ae5c670ff575e742_middle.jpg?rltime",
-      "fans": 66336
-    },
-    {
       "room_id": "3952247",
       "cate_id": 208,
       "nickname": "边哥BeenGor",
@@ -895,6 +887,14 @@
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202403/226d20f4597543518132c9e519c43ec0_middle.jpg?rltime",
       "fans": 64939
+    },
+    {
+      "room_id": "427397",
+      "cate_id": 208,
+      "nickname": "我快要上天啦",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/4dfffdd5df3846b9ae5c670ff575e742_middle.jpg?rltime",
+      "fans": 63004
     },
     {
       "room_id": "2539837",
