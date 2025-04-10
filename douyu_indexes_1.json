@@ -1569,6 +1569,14 @@
       "fans": 330201
     },
     {
+      "room_id": "1515546",
+      "cate_id": 1,
+      "nickname": "小明剑魔",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202504/1828875b9a21494ab9e785a5e396bd9d_middle.jpg?rltime",
+      "fans": 330080
+    },
+    {
       "room_id": "673320",
       "cate_id": 1,
       "nickname": "赛事专用直播间1",
@@ -1607,14 +1615,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/8c4b7506c6344a2f9230568e6ae1c54a_middle.jpg?rltime",
       "fans": 316275
-    },
-    {
-      "room_id": "1515546",
-      "cate_id": 1,
-      "nickname": "小明剑魔",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202504/1828875b9a21494ab9e785a5e396bd9d_middle.jpg?rltime",
-      "fans": 313927
     },
     {
       "room_id": "514974",
