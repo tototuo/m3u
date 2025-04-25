@@ -1425,6 +1425,14 @@
       "fans": 90158
     },
     {
+      "room_id": "10106809",
+      "cate_id": 1008,
+      "nickname": "小美佳呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
+      "fans": 88538
+    },
+    {
       "room_id": "5516960",
       "cate_id": 1008,
       "nickname": "橘猫酱R",
@@ -1463,14 +1471,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202406/1ac4d793badf4720a402ee6eb6e7b924_middle.jpg?rltime",
       "fans": 84523
-    },
-    {
-      "room_id": "10106809",
-      "cate_id": 1008,
-      "nickname": "小美佳呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
-      "fans": 84268
     },
     {
       "room_id": "4933024",
