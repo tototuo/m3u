@@ -617,6 +617,14 @@
       "fans": 1328382
     },
     {
+      "room_id": "12306",
+      "cate_id": 1,
+      "nickname": "电棍",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/000/31/02/60_avatar_middle.jpg?rltime",
+      "fans": 1316342
+    },
+    {
       "room_id": "12270287",
       "cate_id": 1,
       "nickname": "狂鸟丶单身狗-90327",
@@ -631,14 +639,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/8eaa7643ac554a5eb0c3aceb398cfe99_middle.jpg?rltime",
       "fans": 1307249
-    },
-    {
-      "room_id": "12306",
-      "cate_id": 1,
-      "nickname": "电棍",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar/000/31/02/60_avatar_middle.jpg?rltime",
-      "fans": 1253658
     },
     {
       "room_id": "6",
@@ -675,7 +675,7 @@
     {
       "room_id": "12267669",
       "cate_id": 1,
-      "nickname": "夜崽崽丶4577",
+      "nickname": "夜崽崽丶.",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/9aef7aac8f404c02932de382ac67479a_middle.jpg?rltime",
       "fans": 1205352
