@@ -2649,6 +2649,14 @@
       "fans": 107340
     },
     {
+      "room_id": "12269657",
+      "cate_id": 1,
+      "nickname": "解说元宝",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/b6dfd44551574d8ab7eb3b82b7f51f7e_middle.jpg?rltime",
+      "fans": 106604
+    },
+    {
       "room_id": "1005274",
       "cate_id": 1,
       "nickname": "鱼玄机丶甬娱",
@@ -2711,14 +2719,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/2c4bb74665564af78d06a0f09ebcd583_middle.jpg?rltime",
       "fans": 101578
-    },
-    {
-      "room_id": "12269657",
-      "cate_id": 1,
-      "nickname": "解说元宝",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/b6dfd44551574d8ab7eb3b82b7f51f7e_middle.jpg?rltime",
-      "fans": 101036
     },
     {
       "room_id": "11006229",
@@ -3149,7 +3149,7 @@
       "cate_id": 1,
       "nickname": "Jz0w0",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202106/0db51ad3c42c4c9c8fef30ee8e9b034e_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202506/02423179ff0248db9a6d4540e8a54c16_middle.jpg?rltime",
       "fans": 74447
     },
     {
