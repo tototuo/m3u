@@ -1433,6 +1433,14 @@
       "fans": 93030
     },
     {
+      "room_id": "10106809",
+      "cate_id": 1008,
+      "nickname": "小美佳呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
+      "fans": 92990
+    },
+    {
       "room_id": "2293708",
       "cate_id": 1008,
       "nickname": "薄凉哟",
@@ -1479,14 +1487,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/e6e2032c5c4c492eaa2f20aaf4ddb5b4_middle.jpg?rltime",
       "fans": 90158
-    },
-    {
-      "room_id": "10106809",
-      "cate_id": 1008,
-      "nickname": "小美佳呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
-      "fans": 88538
     },
     {
       "room_id": "5516960",
