@@ -1609,6 +1609,14 @@
       "fans": 80456
     },
     {
+      "room_id": "4386404",
+      "cate_id": 1008,
+      "nickname": "成都55张",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202507/659d89dce6a142e29f102c80c49b0e1f_middle.jpg?rltime",
+      "fans": 80380
+    },
+    {
       "room_id": "5879528",
       "cate_id": 1008,
       "nickname": "南语嫣",
@@ -1647,14 +1655,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202304/8ac96f86a0684f9384fc5057749fd910_middle.jpg?rltime",
       "fans": 78258
-    },
-    {
-      "room_id": "4386404",
-      "cate_id": 1008,
-      "nickname": "成都55张",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202507/659d89dce6a142e29f102c80c49b0e1f_middle.jpg?rltime",
-      "fans": 76547
     },
     {
       "room_id": "6295904",
