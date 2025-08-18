@@ -277,7 +277,7 @@
       "cate_id": 1008,
       "nickname": "林见鹿i",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202507/06fc32a7222d4eb1820a458ecb6b3f5c_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202508/2811c53e1dc34eb7a27532ae5b9cc6f4_middle.jpg?rltime",
       "fans": 506674
     },
     {
@@ -1177,6 +1177,14 @@
       "fans": 116245
     },
     {
+      "room_id": "10060909",
+      "cate_id": 1008,
+      "nickname": "小冉冉y",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
+      "fans": 115343
+    },
+    {
       "room_id": "6749231",
       "cate_id": 1008,
       "nickname": "白小帅子",
@@ -1223,14 +1231,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/43d87cc45a1e448fa913850e85c3ce41_middle.jpg?rltime",
       "fans": 111373
-    },
-    {
-      "room_id": "10060909",
-      "cate_id": 1008,
-      "nickname": "小冉冉y",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
-      "fans": 109720
     },
     {
       "room_id": "4125556",
@@ -1473,6 +1473,14 @@
       "fans": 90870
     },
     {
+      "room_id": "5516960",
+      "cate_id": 1008,
+      "nickname": "橘猫酱R",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202507/19b583dc7ba44d0abe9097d137122068_middle.jpg?rltime",
+      "fans": 90198
+    },
+    {
       "room_id": "5100147",
       "cate_id": 1008,
       "nickname": "言笑晏晏清歌浅浅",
@@ -1487,14 +1495,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202309/e6e2032c5c4c492eaa2f20aaf4ddb5b4_middle.jpg?rltime",
       "fans": 90158
-    },
-    {
-      "room_id": "5516960",
-      "cate_id": 1008,
-      "nickname": "橘猫酱R",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202507/19b583dc7ba44d0abe9097d137122068_middle.jpg?rltime",
-      "fans": 85887
     },
     {
       "room_id": "6507743",
