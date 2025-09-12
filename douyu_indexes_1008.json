@@ -961,6 +961,14 @@
       "fans": 152681
     },
     {
+      "room_id": "10060909",
+      "cate_id": 1008,
+      "nickname": "小冉冉y",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
+      "fans": 151412
+    },
+    {
       "room_id": "9831964",
       "cate_id": 1008,
       "nickname": "小火龙0w0",
@@ -991,14 +999,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202107/32bb6401c54c42f28184b7f351f084b1_middle.jpg?rltime",
       "fans": 144450
-    },
-    {
-      "room_id": "10060909",
-      "cate_id": 1008,
-      "nickname": "小冉冉y",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
-      "fans": 144183
     },
     {
       "room_id": "1312662",
@@ -1305,6 +1305,14 @@
       "fans": 104070
     },
     {
+      "room_id": "10106809",
+      "cate_id": 1008,
+      "nickname": "小美佳呀",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
+      "fans": 102949
+    },
+    {
       "room_id": "7446649",
       "cate_id": 1008,
       "nickname": "蜜桃miki",
@@ -1359,14 +1367,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/7e9f56a1a7724118bc475ac2c151fd6f_middle.jpg?rltime",
       "fans": 98922
-    },
-    {
-      "room_id": "10106809",
-      "cate_id": 1008,
-      "nickname": "小美佳呀",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/adac1203471b44f5876b0d07cfb8a8fa_middle.jpg?rltime",
-      "fans": 97961
     },
     {
       "room_id": "9483542",
