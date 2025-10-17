@@ -2425,6 +2425,14 @@
       "fans": 157745
     },
     {
+      "room_id": "12268015",
+      "cate_id": 1,
+      "nickname": "baicaiovo",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/c344d407d97740f5aefc4ad752ec46be_middle.jpg?rltime",
+      "fans": 157370
+    },
+    {
       "room_id": "895712",
       "cate_id": 1,
       "nickname": "一只蘇l",
@@ -2447,14 +2455,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/d914b0bdf6214a5b9e24484189921267_middle.jpg?rltime",
       "fans": 149393
-    },
-    {
-      "room_id": "12268015",
-      "cate_id": 1,
-      "nickname": "baicaiovo",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/c344d407d97740f5aefc4ad752ec46be_middle.jpg?rltime",
-      "fans": 149259
     },
     {
       "room_id": "2561523",
