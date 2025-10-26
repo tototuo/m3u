@@ -929,6 +929,14 @@
       "fans": 165475
     },
     {
+      "room_id": "10060909",
+      "cate_id": 1008,
+      "nickname": "小冉冉y",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
+      "fans": 160859
+    },
+    {
       "room_id": "7506370",
       "cate_id": 1008,
       "nickname": "UU超级大",
@@ -967,14 +975,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202005/c8082cb52def48aebbb0bb14065fd471_middle.jpg?rltime",
       "fans": 152681
-    },
-    {
-      "room_id": "10060909",
-      "cate_id": 1008,
-      "nickname": "小冉冉y",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
-      "fans": 151412
     },
     {
       "room_id": "9831964",
