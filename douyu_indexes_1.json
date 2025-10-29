@@ -2681,6 +2681,14 @@
       "fans": 120200
     },
     {
+      "room_id": "510999",
+      "cate_id": 1,
+      "nickname": "o叶秋o",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202506/673d788335db4e6b8ae6fcb695699828_middle.jpg?rltime",
+      "fans": 120144
+    },
+    {
       "room_id": "105262",
       "cate_id": 1,
       "nickname": "向左卡特",
