@@ -913,6 +913,14 @@
       "fans": 169789
     },
     {
+      "room_id": "10060909",
+      "cate_id": 1008,
+      "nickname": "小冉冉y",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
+      "fans": 168918
+    },
+    {
       "room_id": "5522765",
       "cate_id": 1008,
       "nickname": "我是小怡呀",
@@ -927,14 +935,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201906/ae3b0fd78045415188e0baba7e3814b9_middle.jpg?rltime",
       "fans": 165475
-    },
-    {
-      "room_id": "10060909",
-      "cate_id": 1008,
-      "nickname": "小冉冉y",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202307/73702969151546c7b17307ea8d0ab68d_middle.jpg?rltime",
-      "fans": 160859
     },
     {
       "room_id": "7506370",
@@ -1409,19 +1409,19 @@
       "fans": 98954
     },
     {
-      "room_id": "8964416",
-      "cate_id": 1008,
-      "nickname": "莉歌Julie",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/bb14ef3875b744f492b7ca4e07448999_middle.jpg?rltime",
-      "fans": 98922
-    },
-    {
       "room_id": "1654048",
       "cate_id": 1008,
       "nickname": "招财小卡卡",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/c6c973e3d868493093a47c1e98062093_middle.jpg?rltime",
+      "fans": 98922
+    },
+    {
+      "room_id": "8964416",
+      "cate_id": 1008,
+      "nickname": "莉歌Julie",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/bb14ef3875b744f492b7ca4e07448999_middle.jpg?rltime",
       "fans": 98922
     },
     {
