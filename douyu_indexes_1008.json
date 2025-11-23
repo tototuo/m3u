@@ -209,6 +209,14 @@
       "fans": 619568
     },
     {
+      "room_id": "6999879",
+      "cate_id": 1008,
+      "nickname": "艺瑟妃",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202510/5ae072d3b95b4b1db717508a2ad2ba45_middle.jpg?rltime",
+      "fans": 597541
+    },
+    {
       "room_id": "638575",
       "cate_id": 1008,
       "nickname": "丽亚celiahunne",
@@ -231,14 +239,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202303/ed9ad35cfef541c08db3816854e17f96_middle.jpg?rltime",
       "fans": 573043
-    },
-    {
-      "room_id": "6999879",
-      "cate_id": 1008,
-      "nickname": "艺瑟妃",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/af27bf84a15749f995a0f21925004137_middle.jpg?rltime",
-      "fans": 568662
     },
     {
       "room_id": "2138443",
@@ -1341,7 +1341,7 @@
       "cate_id": 1008,
       "nickname": "冷风yys",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201908/c91c0fae23f942aba7bcd1a5630823cb_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202511/7d844b6ddd274518a4ab55a68b700a39_middle.jpg?rltime",
       "fans": 104070
     },
     {
