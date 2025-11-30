@@ -579,7 +579,7 @@
     {
       "room_id": "488131",
       "cate_id": 1008,
-      "nickname": "系小圆",
+      "nickname": "係小圆",
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/9cff5eb43b9b4477ba6c3427298370f5_middle.jpg?rltime",
       "fans": 290725
@@ -1641,6 +1641,14 @@
       "fans": 83223
     },
     {
+      "room_id": "5192201",
+      "cate_id": 1008,
+      "nickname": "三千很忙的",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202412/32974312758a4f33aeb6837268e2b490_middle.jpg?rltime",
+      "fans": 82736
+    },
+    {
       "room_id": "6859029",
       "cate_id": 1008,
       "nickname": "诗怡同学",
@@ -1783,14 +1791,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202509/77ca62444ff74b21a3b168404517bb48_middle.jpg?rltime",
       "fans": 73887
-    },
-    {
-      "room_id": "5192201",
-      "cate_id": 1008,
-      "nickname": "三千很忙的",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202412/32974312758a4f33aeb6837268e2b490_middle.jpg?rltime",
-      "fans": 73727
     },
     {
       "room_id": "2622942",
