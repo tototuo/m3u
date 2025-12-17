@@ -977,6 +977,14 @@
       "fans": 860349
     },
     {
+      "room_id": "6560603",
+      "cate_id": 1,
+      "nickname": "阿涛皎月Carry",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201903/3dcec943761543ada419b5c845ebe04a_middle.jpg?rltime",
+      "fans": 859874
+    },
+    {
       "room_id": "52319",
       "cate_id": 1,
       "nickname": "loveyou_qq",
@@ -4311,6 +4319,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202202/8da5fc81296c4200ab56bd1a73d8692c_middle.jpg?rltime",
       "fans": 50067
+    },
+    {
+      "room_id": "8436373",
+      "cate_id": 1,
+      "nickname": "目黑川i",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202512/028588db22404e1a84e90082fbadb3cf_middle.jpg?rltime",
+      "fans": 50056
     }
   ]
 }
