@@ -697,14 +697,6 @@
       "fans": 245624
     },
     {
-      "room_id": "6519050",
-      "cate_id": 1008,
-      "nickname": "今同",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/be2d6213fa3a41378f6513a5ff840055_middle.jpg?rltime",
-      "fans": 238239
-    },
-    {
       "room_id": "6135669",
       "cate_id": 1008,
       "nickname": "甜星kitty",
@@ -735,6 +727,14 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/7a38e6b73d9d464ba70bb6d9c7ac9a00_middle.jpg?rltime",
       "fans": 235335
+    },
+    {
+      "room_id": "6519050",
+      "cate_id": 1008,
+      "nickname": "今同",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202512/cc99c9770f024ec98a76caade311889d_middle.jpg?rltime",
+      "fans": 226166
     },
     {
       "room_id": "6681257",
