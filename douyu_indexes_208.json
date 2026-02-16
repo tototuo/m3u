@@ -1049,14 +1049,6 @@
       "fans": 51169
     },
     {
-      "room_id": "4808115",
-      "cate_id": 208,
-      "nickname": "sweet夏有甜",
-      "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201807/ce6bd031c5edc3eab3f533f5456395e9_middle.jpg?rltime",
-      "fans": 50002
-    },
-    {
       "room_id": "6610883",
       "cate_id": 208,
       "nickname": "魔术师丶西索",
@@ -1065,12 +1057,12 @@
       "fans": 50002
     },
     {
-      "room_id": "5692901",
+      "room_id": "4808115",
       "cate_id": 208,
-      "nickname": "壹丨哥",
+      "nickname": "sweet夏有甜",
       "game_name": "一起看",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202510/0fc33791534b4695b6aa7b0ef093d139_middle.jpg?rltime",
-      "fans": 50001
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201807/ce6bd031c5edc3eab3f533f5456395e9_middle.jpg?rltime",
+      "fans": 50002
     },
     {
       "room_id": "5875025",
@@ -1078,6 +1070,14 @@
       "nickname": "当铁手团遇到光复社",
       "game_name": "一起看",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202201/f1567c8d2e314c2ca1a826db6637e14c_middle.jpg?rltime",
+      "fans": 50001
+    },
+    {
+      "room_id": "5692901",
+      "cate_id": 208,
+      "nickname": "壹丨哥",
+      "game_name": "一起看",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202510/0fc33791534b4695b6aa7b0ef093d139_middle.jpg?rltime",
       "fans": 50001
     },
     {
