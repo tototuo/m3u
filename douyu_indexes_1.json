@@ -1393,6 +1393,14 @@
       "fans": 502065
     },
     {
+      "room_id": "12267540",
+      "cate_id": 1,
+      "nickname": "幻灭.",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/2fb2d282041e44618cca68563d39a02a_middle.jpg?rltime",
+      "fans": 501414
+    },
+    {
       "room_id": "3190510",
       "cate_id": 1,
       "nickname": "肉肉怎么这么菜",
@@ -1439,14 +1447,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/fee76242c8984469a54d930c89779e60_middle.jpg?rltime",
       "fans": 478425
-    },
-    {
-      "room_id": "12267540",
-      "cate_id": 1,
-      "nickname": "幻灭.",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/2fb2d282041e44618cca68563d39a02a_middle.jpg?rltime",
-      "fans": 477181
     },
     {
       "room_id": "5220173",
