@@ -3217,6 +3217,14 @@
       "fans": 100400
     },
     {
+      "room_id": "807771",
+      "cate_id": 1,
+      "nickname": "expro食物",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/6725b84c5c4a417a9c8ba0d54ba33c24_middle.jpg?rltime",
+      "fans": 100363
+    },
+    {
       "room_id": "10035066",
       "cate_id": 1,
       "nickname": "墨道烟雨丶",
@@ -3503,14 +3511,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202311/86d0379047a34b76ae8b8ecd2e355ffa_middle.jpg?rltime",
       "fans": 85076
-    },
-    {
-      "room_id": "807771",
-      "cate_id": 1,
-      "nickname": "expro食物",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/6725b84c5c4a417a9c8ba0d54ba33c24_middle.jpg?rltime",
-      "fans": 84540
     },
     {
       "room_id": "539088",
