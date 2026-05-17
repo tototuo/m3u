@@ -285,7 +285,7 @@
       "cate_id": 1008,
       "nickname": "林见鹿i",
       "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202508/2811c53e1dc34eb7a27532ae5b9cc6f4_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202605/08125b08c98c4dcc99ba55eb1fd11df0_middle.jpg?rltime",
       "fans": 506674
     },
     {
@@ -1457,6 +1457,14 @@
       "fans": 101115
     },
     {
+      "room_id": "10543844",
+      "cate_id": 1008,
+      "nickname": "桃桃酱Cathy",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202603/d342aad2bafa4bf7aa3561ef9eccb179_middle.jpg?rltime",
+      "fans": 100949
+    },
+    {
       "room_id": "9470217",
       "cate_id": 1008,
       "nickname": "月薇薇吖",
@@ -1527,14 +1535,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/ae7c173be38a4b1d9c86873450780ef5_middle.jpg?rltime",
       "fans": 97361
-    },
-    {
-      "room_id": "10543844",
-      "cate_id": 1008,
-      "nickname": "桃桃酱Cathy",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202603/d342aad2bafa4bf7aa3561ef9eccb179_middle.jpg?rltime",
-      "fans": 95951
     },
     {
       "room_id": "5985827",
