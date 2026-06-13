@@ -2481,6 +2481,14 @@
       "fans": 176330
     },
     {
+      "room_id": "9680646",
+      "cate_id": 1,
+      "nickname": "小乐碎片",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202102/e627127858d34e8f9336a29d91e65dbc_middle.jpg?rltime",
+      "fans": 175170
+    },
+    {
       "room_id": "5222700",
       "cate_id": 1,
       "nickname": "驯良",
@@ -2591,14 +2599,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/1ba5f81bef74404b9b5a406f0d60f3f9_middle.jpg?rltime",
       "fans": 165256
-    },
-    {
-      "room_id": "9680646",
-      "cate_id": 1,
-      "nickname": "小乐碎片",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202102/e627127858d34e8f9336a29d91e65dbc_middle.jpg?rltime",
-      "fans": 164395
     },
     {
       "room_id": "1464306",
