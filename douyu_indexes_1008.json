@@ -1009,6 +1009,14 @@
       "fans": 165475
     },
     {
+      "room_id": "8",
+      "cate_id": 1008,
+      "nickname": "嘉年华颁奖典礼",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202606/ae79986bfb7c4c5d8fd8037545f54eeb_middle.jpg?rltime",
+      "fans": 163573
+    },
+    {
       "room_id": "7506370",
       "cate_id": 1008,
       "nickname": "UU超级大",
