@@ -1201,6 +1201,14 @@
       "fans": 692700
     },
     {
+      "room_id": "12090571",
+      "cate_id": 1,
+      "nickname": "AH丶仇冬生",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/abc2805ba2d64ab4a955a17fe8c7cce5_middle.jpg?rltime",
+      "fans": 691989
+    },
+    {
       "room_id": "12271032",
       "cate_id": 1,
       "nickname": "Remember1032",
@@ -1297,6 +1305,14 @@
       "fans": 622111
     },
     {
+      "room_id": "6436883",
+      "cate_id": 1,
+      "nickname": "4AMCRAZY112代",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/73021c5f81764cffa045bc47727cbc8b_middle.jpg?rltime",
+      "fans": 619818
+    },
+    {
       "room_id": "12394648",
       "cate_id": 1,
       "nickname": "无敌李夫人.",
@@ -1343,14 +1359,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202004/76436a777d6845bf8fa12945131a8d98_middle.jpg?rltime",
       "fans": 578484
-    },
-    {
-      "room_id": "6436883",
-      "cate_id": 1,
-      "nickname": "4AMCRAZY112代",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/73021c5f81764cffa045bc47727cbc8b_middle.jpg?rltime",
-      "fans": 572869
     },
     {
       "room_id": "1853869",
@@ -3183,6 +3191,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202412/2a4309225adb4e948d80707fc2590fc3_middle.jpg?rltime",
       "fans": 105540
+    },
+    {
+      "room_id": "18088",
+      "cate_id": 1,
+      "nickname": "南西oYo",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202006/45d688112e1b49f6b133315781220c73_middle.jpg?rltime",
+      "fans": 105478
     },
     {
       "room_id": "13423",
