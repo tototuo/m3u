@@ -257,6 +257,14 @@
       "fans": 4324744
     },
     {
+      "room_id": "424559",
+      "cate_id": 1,
+      "nickname": "英雄联盟赛事2",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202607/8c1e725edefe493db3807a30bd6804f5_middle.jpg?rltime",
+      "fans": 4324744
+    },
+    {
       "room_id": "12268509",
       "cate_id": 1,
       "nickname": "V1ncent丶文森特8509",
@@ -1153,12 +1161,28 @@
       "fans": 778239
     },
     {
+      "room_id": "673327",
+      "cate_id": 1,
+      "nickname": "英雄联盟节目",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202511/c0e6aadb4d2b4ce79edefe1ab1515b5f_middle.jpg?rltime",
+      "fans": 778239
+    },
+    {
       "room_id": "6488050",
       "cate_id": 1,
       "nickname": "旋转的老刘诺手",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/201904/c5f92091ab024212aa0653e0f5899392_middle.jpg?rltime",
       "fans": 769842
+    },
+    {
+      "room_id": "673305",
+      "cate_id": 1,
+      "nickname": "英雄联盟赛事3",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202308/af4f3247b74c48d188f5648e5bb75649_middle.jpg?rltime",
+      "fans": 744528
     },
     {
       "room_id": "673305",
@@ -1311,6 +1335,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_middle.jpg?rltime",
       "fans": 622111
+    },
+    {
+      "room_id": "6436883",
+      "cate_id": 1,
+      "nickname": "4AMCRAZY112代",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/73021c5f81764cffa045bc47727cbc8b_middle.jpg?rltime",
+      "fans": 619818
     },
     {
       "room_id": "6436883",
@@ -1897,6 +1929,14 @@
       "fans": 325650
     },
     {
+      "room_id": "673320",
+      "cate_id": 1,
+      "nickname": "赛事专用直播间1",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202607/d4d93e642d13486aa6e5503d3b04c071_middle.jpg?rltime",
+      "fans": 325650
+    },
+    {
       "room_id": "572288",
       "cate_id": 1,
       "nickname": "Cnzlike",
@@ -2087,6 +2127,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/154b9500539348caab8bd27c852ead94_middle.jpg?rltime",
       "fans": 270351
+    },
+    {
+      "room_id": "2361531",
+      "cate_id": 1,
+      "nickname": "灰灰小法师OvO",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202312/8e2da07270a244a08aac97ecf6ed09f3_middle.jpg?rltime",
+      "fans": 261924
     },
     {
       "room_id": "2361531",
