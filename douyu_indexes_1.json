@@ -349,7 +349,7 @@
       "cate_id": 1,
       "nickname": "星痕OB-解说",
       "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/a78e8540029a4d13a264dbcca727d6d4_middle.jpg?rltime",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202608/cff5314674484598b1d5f05e83fc6f34_middle.jpg?rltime",
       "fans": 3009551
     },
     {
@@ -3289,6 +3289,14 @@
       "fans": 101578
     },
     {
+      "room_id": "8489391",
+      "cate_id": 1,
+      "nickname": "小300TwT",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/df9a98a0915c41efb99dda6d10bff320_middle.jpg?rltime",
+      "fans": 101077
+    },
+    {
       "room_id": "11006229",
       "cate_id": 1,
       "nickname": "Yukizillah",
@@ -3359,14 +3367,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202301/65f1744f66e945769cdea78ddc974524_middle.jpg?rltime",
       "fans": 96867
-    },
-    {
-      "room_id": "8489391",
-      "cate_id": 1,
-      "nickname": "小300TwT",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202405/df9a98a0915c41efb99dda6d10bff320_middle.jpg?rltime",
-      "fans": 96244
     },
     {
       "room_id": "6052941",
