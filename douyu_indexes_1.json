@@ -257,6 +257,14 @@
       "fans": 4324744
     },
     {
+      "room_id": "424559",
+      "cate_id": 1,
+      "nickname": "英雄联盟赛事2",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202607/8c1e725edefe493db3807a30bd6804f5_middle.jpg?rltime",
+      "fans": 4324744
+    },
+    {
       "room_id": "12268509",
       "cate_id": 1,
       "nickname": "V1ncent丶文森特8509",
@@ -1161,6 +1169,14 @@
       "fans": 778239
     },
     {
+      "room_id": "673327",
+      "cate_id": 1,
+      "nickname": "英雄联盟节目",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202511/c0e6aadb4d2b4ce79edefe1ab1515b5f_middle.jpg?rltime",
+      "fans": 778239
+    },
+    {
       "room_id": "6488050",
       "cate_id": 1,
       "nickname": "旋转的老刘诺手",
@@ -1319,6 +1335,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_middle.jpg?rltime",
       "fans": 622111
+    },
+    {
+      "room_id": "6436883",
+      "cate_id": 1,
+      "nickname": "4AMCRAZY112代",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202501/73021c5f81764cffa045bc47727cbc8b_middle.jpg?rltime",
+      "fans": 619818
     },
     {
       "room_id": "6436883",
@@ -1889,12 +1913,28 @@
       "fans": 341063
     },
     {
+      "room_id": "6868476",
+      "cate_id": 1,
+      "nickname": "路浩东ouo",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202110/3b0645fdfac547eaac0e7fdedf3a6496_middle.jpg?rltime",
+      "fans": 341063
+    },
+    {
       "room_id": "7940025",
       "cate_id": 1,
       "nickname": "Chogod虫王",
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/2435071a5789406e98195a5490e4b4b6_middle.jpg?rltime",
       "fans": 330201
+    },
+    {
+      "room_id": "673320",
+      "cate_id": 1,
+      "nickname": "赛事专用直播间1",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202607/d4d93e642d13486aa6e5503d3b04c071_middle.jpg?rltime",
+      "fans": 325650
     },
     {
       "room_id": "673320",
@@ -2679,6 +2719,14 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201712/22/03/4befda7569ca09d902118618e7bb664f_middle.jpg?rltime",
       "fans": 161424
+    },
+    {
+      "room_id": "2845610",
+      "cate_id": 1,
+      "nickname": "玩剑圣的毛毛虫",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avanew/face/201708/10/04/6f90921f6a49e7670fb63c1f087e3b1d_middle.jpg?rltime",
+      "fans": 161085
     },
     {
       "room_id": "2845610",
