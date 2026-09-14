@@ -1601,6 +1601,14 @@
       "fans": 447560
     },
     {
+      "room_id": "12268314",
+      "cate_id": 1,
+      "nickname": "冰雹ice.",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202409/05ace3ee40764e528843572ab7953172_middle.jpg?rltime",
+      "fans": 446100
+    },
+    {
       "room_id": "6296895",
       "cate_id": 1,
       "nickname": "左手吸血鬼QAQ",
@@ -3369,6 +3377,14 @@
       "fans": 99783
     },
     {
+      "room_id": "12503282",
+      "cate_id": 1,
+      "nickname": "初七7777.",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202504/2d2ba028edd74002ad8d775462eae7c2_middle.jpg?rltime",
+      "fans": 99730
+    },
+    {
       "room_id": "554011",
       "cate_id": 1,
       "nickname": "孤独的小浩",
@@ -3671,14 +3687,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/36227472be564f34acc245ace76d7704_middle.jpg?rltime",
       "fans": 83854
-    },
-    {
-      "room_id": "12503282",
-      "cate_id": 1,
-      "nickname": "初七7777.",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202504/2d2ba028edd74002ad8d775462eae7c2_middle.jpg?rltime",
-      "fans": 83805
     },
     {
       "room_id": "9811073",
