@@ -1921,6 +1921,14 @@
       "fans": 73775
     },
     {
+      "room_id": "8379291",
+      "cate_id": 1008,
+      "nickname": "开心市民甜粥",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/82b19ff21eca4e85a02e21a0bd32f5b5_middle.jpg?rltime",
+      "fans": 73436
+    },
+    {
       "room_id": "2622942",
       "cate_id": 1008,
       "nickname": "蘭七o",
@@ -2007,14 +2015,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202209/da68eda3f1d1469e98d4c46360787373_middle.jpg?rltime",
       "fans": 68267
-    },
-    {
-      "room_id": "8379291",
-      "cate_id": 1008,
-      "nickname": "开心市民甜粥",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202105/82b19ff21eca4e85a02e21a0bd32f5b5_middle.jpg?rltime",
-      "fans": 68126
     },
     {
       "room_id": "3518103",
@@ -2217,6 +2217,14 @@
       "fans": 61319
     },
     {
+      "room_id": "9611876",
+      "cate_id": 1008,
+      "nickname": "柚梓喔",
+      "game_name": "星秀",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202506/ae3dd65afcc248d48f4a9b3d5905e38b_middle.jpg?rltime",
+      "fans": 60970
+    },
+    {
       "room_id": "941266",
       "cate_id": 1008,
       "nickname": "曾梓灵02",
@@ -2239,14 +2247,6 @@
       "game_name": "星秀",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202310/2874d24c5aa24f22b85a167a05d2357e_middle.jpg?rltime",
       "fans": 58750
-    },
-    {
-      "room_id": "9611876",
-      "cate_id": 1008,
-      "nickname": "柚梓喔",
-      "game_name": "星秀",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202506/ae3dd65afcc248d48f4a9b3d5905e38b_middle.jpg?rltime",
-      "fans": 58033
     },
     {
       "room_id": "5271808",
