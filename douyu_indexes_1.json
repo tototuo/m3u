@@ -4041,6 +4041,14 @@
       "fans": 70432
     },
     {
+      "room_id": "8436373",
+      "cate_id": 1,
+      "nickname": "目黑川i",
+      "game_name": "英雄联盟",
+      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202610/6a6350ffdf484d09a0d92c4c5fbe9b53_middle.jpg?rltime",
+      "fans": 70283
+    },
+    {
       "room_id": "12667438",
       "cate_id": 1,
       "nickname": "Top-楠神",
@@ -4159,14 +4167,6 @@
       "game_name": "英雄联盟",
       "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202502/59226ded36b34e449cc1e8a13fa423eb_middle.jpg?rltime",
       "fans": 67156
-    },
-    {
-      "room_id": "8436373",
-      "cate_id": 1,
-      "nickname": "目黑川i",
-      "game_name": "英雄联盟",
-      "avatar_mid": "https://apic.douyucdn.cn/upload/avatar_v3/202610/6a6350ffdf484d09a0d92c4c5fbe9b53_middle.jpg?rltime",
-      "fans": 66871
     },
     {
       "room_id": "5283485",
